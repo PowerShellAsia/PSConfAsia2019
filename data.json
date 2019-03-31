@@ -348,9 +348,9 @@
       "Name": "DevOps",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -361,13 +361,21 @@
           }
         },
         {
-          "SessionId": "Common2",
+          "SessionId": "DevOps1",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": ""
+          "Title": "Better Ops Together: Practical PowerShell Pair Programming Patterns and Practices with VS Code",
+          "Speaker": {
+            "Name": "Mark Kraus",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "DevOps2",
+          "Time": "11:00 AM - 11:45 AM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -384,11 +392,11 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps3",
+          "Time": "1:00 PM - 1:45 PM",
+          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
           "Speaker": {
-            "Name": "",
+            "Name": "Girish",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -397,15 +405,15 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps4",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Making your work visible - Including telemetry in your PowerShell modules",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/JanPeters.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/NyanHP"
             }
           }
         },
@@ -415,9 +423,48 @@
           "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps5",
+          "Time": "3:15 PM - 4:00 PM",
+          "Title": "Pester internals and concepts",
+          "Speaker": {
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nohwnd"
+            }
+          }
+        },
+        {
+          "SessionId": "DevOps6",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "PSCache - simple strategies for magnificent performance ",
+          "Speaker": {
+            "Name": "Mathias R. Jessen",
+            "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/mathias.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/iisresetme"
+            }
+          }
+        },
+        {
+          "SessionId": "DevOps7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Getting started with Graph API and PowerShell",
+          "Speaker": {
+            "Name": "Alexander Holmeset",
+            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/AlexHolmeset"
+            }
+          }
+        },
+        {
+          "SessionId": "DevOps8",
+          "Time": "6:15 PM - 7:00 PM",
+          "Title": "Is your DSC environment secure? Probably not",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -426,37 +473,6 @@
               "Twitter": ""
             }
           }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "Common5",
-          "Time": "6:05 PM - 6:15 PM",
-          "Title": "Day Close-up"
         }
       ]
     },
