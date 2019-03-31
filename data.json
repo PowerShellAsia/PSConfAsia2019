@@ -286,7 +286,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
@@ -419,7 +419,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
@@ -618,9 +618,9 @@
       "Name": "Cloud",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -631,24 +631,24 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "WebAPI's with PowerShell in Docker. Who says I'm not a real dev? ",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Adam Murray",
+            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/muzzar78"
             }
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Azure PowerShell Evolution: Get Comfortable with the Az Commands",
           "Speaker": {
-            "Name": "",
+            "Name": "Tim Warner",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -662,11 +662,11 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud3",
+          "Time": "1:00 PM - 1:45 PM",
+          "Title": "PowerShell based APIs - on kubernetes!",
           "Speaker": {
-            "Name": "",
+            "Name": "David O'Brien",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -675,8 +675,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Cloud4",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -693,7 +693,7 @@
           "Title": "Break"
         },
         {
-          "SessionId": "",
+          "SessionId": "Cloud5",
           "Time": "",
           "Title": "",
           "Speaker": {
