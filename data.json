@@ -309,7 +309,7 @@
           "Speaker": {
             "Name": "Rob Sewell",
             "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/RobSewell.png?raw=true",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/sqldbawithbeard"
             }
@@ -411,7 +411,7 @@
           "Speaker": {
             "Name": "Jan-Hendrik Peters",
             "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/JanPeters.jpg?raw=true",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JanPeters.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/NyanHP"
             }
@@ -442,7 +442,7 @@
           "Speaker": {
             "Name": "Mathias R. Jessen",
             "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/mathias.jpeg?raw=true",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/iisresetme"
             }
