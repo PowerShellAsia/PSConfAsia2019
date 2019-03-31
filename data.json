@@ -387,7 +387,7 @@
           }
         },
         {
-          "SessionId": "Common3",
+          "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
@@ -418,7 +418,7 @@
           }
         },
         {
-          "SessionId": "Common4",
+          "SessionId": "Common3",
           "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
