@@ -330,7 +330,7 @@
         },
         {
           "SessionId": "Cloud8",
-          "Time": "6:55 PM - 7:00 PM",
+          "Time": "6:15 PM - 7:00 PM",
           "Title": "Using PowerShell in Azure Functions ",
           "Speaker": {
             "Name": "Chendrayan Venkatesan",
