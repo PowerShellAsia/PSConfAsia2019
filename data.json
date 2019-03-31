@@ -254,44 +254,44 @@
           }
         },
         {
-          "SessionId": "Common3",
+          "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud3",
+          "Time": "1:00 PM - 1:45 PM",
+          "Title": "Extending PowerShell Types and Formats",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jeffrey Hicks",
+            "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/JeffHicks"
             }
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud4",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Real world REST API building with Polaris: Terraform Registry!",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Ben Gelens",
+            "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/BenGelens.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/bgelens"
             }
           }
         },
         {
-          "SessionId": "Common4",
+          "SessionId": "Common3",
           "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Cloud5",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -303,11 +303,11 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud6",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
           "Speaker": {
-            "Name": "",
+            "Name": "Rob Sewell",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -316,22 +316,30 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Become the Remoting Master",
           "Speaker": {
-            "Name": "",
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell class worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+            }
+          }
+        },
+        {
+          "SessionId": "Cloud8",
+          "Time": "6:55 PM - 7:00 PM",
+          "Title": "Using PowerShell in Azure Functions ",
+          "Speaker": {
+            "Name": "Chendrayan Venkatesan",
             "Description": "",
             "ImageUrl": "",
             "Social": {
               "Twitter": ""
             }
           }
-        },
-        {
-          "SessionId": "Common5",
-          "Time": "6:05 PM - 6:15 PM",
-          "Title": "Day Close-up"
         }
       ]
     },
