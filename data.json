@@ -466,7 +466,7 @@
           "Time": "6:15 PM - 7:00 PM",
           "Title": "Is your DSC environment secure? Probably not",
           "Speaker": {
-            "Name": "",
+            "Name": "Ryan Bartram",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -481,8 +481,53 @@
       "Name": "PowerShell",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "PowerShell1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Visualize and Document Infrastructure with PowerShell",
+          "Speaker": {
+            "Name": "Prateek Singh",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+
+        },
+        {
+          "SessionId": "PowerShell2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Azure Authentication - Improving PowerShell Scripting Productivity",
+          "Speaker": {
+            "Name": "Maximo Trinidad",
+            "Description": "Recently joined SAPIENS Technologies as their Technology Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017. Active Florida speaker at SQLSaturday, IT Pro and .NET camps events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "PowerShell3",
+          "Time": "1:00 PM - 1:45 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -494,16 +539,11 @@
           }
         },
         {
-          "SessionId": "Common2",
-          "Time": "10:00 AM - 10:45 AM",
-          "Title": ""
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell4",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
           "Speaker": {
-            "Name": "",
+            "Name": "David O'Brien",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -513,83 +553,60 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "Common4",
           "Time": "3:00 PM - 3:15 PM",
           "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell5",
+          "Time": "3:15 PM - 4:00 PM",
+          "Title": "vSphere Security Compliance in a DevOps World",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/kmruddy"
             }
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell6",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "Keep on Running: Runspaces in the Wild",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Friedrich Weinmann",
+            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/FredWeinmann"
             }
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "'Now you have two problems!' - RegEx for PowerShellies",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Mathias R. Jessen",
+            "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016 ",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Miriam.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/iisresetme"
             }
           }
         },
         {
-          "SessionId": "Common5",
-          "Time": "6:05 PM - 6:15 PM",
-          "Title": "Day Close-up"
+          "SessionId": "PowerShell8",
+          "Time": "6:15 PM - 7:00 PM",
+          "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
+          "Speaker": {
+            "Name": "Adam Murray",
+            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/muzzar78"
+            }
+          }
         }
       ]
     }
