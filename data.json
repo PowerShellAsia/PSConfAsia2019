@@ -689,12 +689,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "Cloud5",
-          "Time": "",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -706,8 +706,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Cloud6",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -719,9 +719,30 @@
           }
         },
         {
-          "SessionId": "Common4",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing Panel / Session"
+          "SessionId": "Cloud7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Cloud8",
+          "Time": "6:15 PM - 7:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         }
       ]
     },
@@ -730,9 +751,9 @@
       "Name": "DevOps",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -743,11 +764,11 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps1",
+          "Time": "10:00 AM - 10:45 AM",
+          "Title": "Ansible module development for using PowerShell",
           "Speaker": {
-            "Name": "",
+            "Name": "Prasoon Karunan V",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -756,15 +777,15 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Manage vSphere with PowerCLI DSC Resources, Finally!",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/kmruddy"
             }
           }
         },
@@ -774,11 +795,11 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DevOps3",
+          "Time": "1:00 PM - 1:45 PM",
+          "Title": "Migrate from ISE to Visual Studio Code for PowerShell Development",
           "Speaker": {
-            "Name": "",
+            "Name": "Tim Warner",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -787,8 +808,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "DevOps4",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -801,12 +822,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "DevOps5",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -818,8 +839,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "DevOps6",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -831,9 +852,30 @@
           }
         },
         {
-          "SessionId": "Common4",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing Panel / Session"
+          "SessionId": "DevOps7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "DevOps8",
+          "Time": "6:15 PM - 7:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         }
       ]
     },
@@ -842,8 +884,21 @@
       "Name": "PowerShell",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "PowerShell1",
+          "Time": "10:00 AM - 10:45 AM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -855,21 +910,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "PowerShell2",
+          "Time": "11:00 AM - 11:45 AM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -886,8 +928,8 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "PowerShell3",
+          "Time": "1:00 PM - 1:45 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -899,8 +941,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "PowerShell4",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -913,12 +955,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "3:00 PM - 3:30 PM",
+          "Time": "2:45 PM - 3:15 PM",
           "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "PowerShell5",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -930,8 +972,8 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "PowerShell6",
+          "Time": "4:15 PM - 5:00 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -943,9 +985,30 @@
           }
         },
         {
-          "SessionId": "Common4",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing Panel / Session"
+          "SessionId": "PowerShell7",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "PowerShell8",
+          "Time": "6:15 PM - 7:00 PM",
+          "Title": "",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
         }
       ]
     }
