@@ -88,7 +88,7 @@
   ],
   "Tracks": [
     {
-      "Day": "",
+      "Day": "19 September 2019",
       "Name": "",
       "Sessions": [
         {
@@ -211,12 +211,25 @@
   ],
   "Tracks1": [
     {
-      "Day": "19 October 2018",
-      "Name": "CloudyDevOps",
+      "Day": "20 September 2019",
+      "Name": "Cloud",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
+          "SessionId": "Common1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "KeyNote",
+          "Speaker": {
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Cloud1",
+          "Time": "10:00 AM - 10:45 AM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -228,24 +241,11 @@
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "Cloud2",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "Polaris + PSHTML - PSFabric | PowerShell Community Projects",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
+            "Name": "Chendrayan Venkatesan",
             "Description": "",
             "ImageUrl": "",
             "Social": {
