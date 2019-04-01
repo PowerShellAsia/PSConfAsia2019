@@ -415,15 +415,15 @@
         },
         {
           "SessionId": "DevOps4",
-          "Time": "11:00 AM - 11:45 AM",
-          "Title": "",
+          "Time": "2:00 PM - 2:45 PM",
+          "Title": "Making your work visible - Including telemetry in your PowerShell modules",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jan-Hendrik Peters",
+            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
             "Social": {
-              "Twitter": ""
-            }
+              "Twitter": "http://www.twitter.com/NyanHP"
+                  }
           }
         },
         {
