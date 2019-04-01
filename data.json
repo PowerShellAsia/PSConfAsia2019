@@ -73,6 +73,15 @@
         "Blog": "http://altfo.wordpress.com",
         "Twitter": "http://www.twitter.com/altfo"
       }
+    },
+    {
+      "Name": "Chendrayan Venkatesan",
+      "Description": "",
+      "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+      "Social": {
+        "Blog": "",
+        "Twitter": "http://www.twitter.com/ChendrayanV"
+      }
     }
   ],
   "Sponsors": [
