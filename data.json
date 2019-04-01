@@ -66,21 +66,21 @@
       }
     },
     {
-      "Name": "Senthamil Selvan",
-      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-      "ImageUrl": "~/images/sen.jpg",
-      "Social": {
-        "Blog": "http://altfo.wordpress.com",
-        "Twitter": "http://www.twitter.com/altfo"
-      }
-    },
-    {
       "Name": "Chendrayan Venkatesan",
       "Description": "",
       "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
       "Social": {
         "Blog": "",
         "Twitter": "http://www.twitter.com/ChendrayanV"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+      "ImageUrl": "~/images/sen.jpg",
+      "Social": {
+        "Blog": "http://altfo.wordpress.com",
+        "Twitter": "http://www.twitter.com/altfo"
       }
     }
   ],
