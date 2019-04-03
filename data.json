@@ -415,10 +415,10 @@
           "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
           "Speaker": {
             "Name": "Girish",
-            "Description": "",
+            "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps,Continuous Delivery and ALM in microsoft stack, he is passionate to learn new technologies.",
             "ImageUrl": "",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/girishtweek"
             }
           }
         },
@@ -485,10 +485,10 @@
           "Title": "Is your DSC environment secure? Probably not",
           "Speaker": {
             "Name": "Ryan Bartram",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/rd_bartram"
             }
           }
         }
