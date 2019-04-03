@@ -562,10 +562,10 @@
           "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
           "Speaker": {
             "Name": "David O'Brien",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/david_obrien"
             }
           }
         },
@@ -685,10 +685,10 @@
           "Title": "PowerShell based APIs - on kubernetes!",
           "Speaker": {
             "Name": "David O'Brien",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/david_obrien"
             }
           }
         },
