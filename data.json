@@ -304,12 +304,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "Cloud5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -322,7 +322,7 @@
         },
         {
           "SessionId": "Cloud6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
           "Speaker": {
             "Name": "Rob Sewell",
@@ -335,7 +335,7 @@
         },
         {
           "SessionId": "Cloud7",
-          "Time": "5:15 PM - 6:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "Become the Remoting Master",
           "Speaker": {
             "Name": "Jason Yoder",
@@ -343,19 +343,6 @@
             "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/JasonYoder_MCT"
-            }
-          }
-        },
-        {
-          "SessionId": "Cloud8",
-          "Time": "6:15 PM - 7:00 PM",
-          "Title": "Using PowerShell in Azure Functions",
-          "Speaker": {
-            "Name": "Chendrayan Venkatesan",
-            "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/ChendrayanV"
             }
           }
         }
@@ -437,12 +424,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "DevOps5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "Pester internals and concepts",
           "Speaker": {
             "Name": "Jakub Jares",
@@ -455,7 +442,7 @@
         },
         {
           "SessionId": "DevOps6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "PSCache - simple strategies for magnificent performance ",
           "Speaker": {
             "Name": "Mathias R. Jessen",
@@ -468,7 +455,7 @@
         },
         {
           "SessionId": "DevOps7",
-          "Time": "5:15 PM - 6:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "Getting started with Graph API and PowerShell",
           "Speaker": {
             "Name": "Alexander Holmeset",
@@ -476,19 +463,6 @@
             "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/AlexHolmeset"
-            }
-          }
-        },
-        {
-          "SessionId": "DevOps8",
-          "Time": "6:15 PM - 7:00 PM",
-          "Title": "Is your DSC environment secure? Probably not",
-          "Speaker": {
-            "Name": "Ryan Bartram",
-            "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/rd_bartram"
             }
           }
         }
@@ -528,13 +502,15 @@
         {
           "SessionId": "PowerShell2",
           "Time": "11:00 AM - 11:45 AM",
-          "Title": "Azure Authentication - Improving PowerShell Scripting Productivity",
+          "Title": "Mastering VSCode – The modern tool for the next-gen engineer",
           "Speaker": {
-            "Name": "Maximo Trinidad",
-            "Description": "Recently joined SAPIENS Technologies as their Technology Evangelist for their PowerShell and Scripting Tools line of products. Involved with SQL Server Technologies, and Microsoft Cloud Technologies. Microsoft PowerShell MVP since 2009, MVP SAPIEN Technologies, and IDERA ACE 2017. Active Florida speaker at SQLSaturday, IT Pro and .NET camps events.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/MaximoTrinidad.jpg?raw=true",
+            "Name": "Jaap Brasser",
+            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/MaxTrinidad"
+              "Blog": "jaapbrasser.com",
+              "Twitter": "http://www.twitter.com/jaap_brasser",
+              "Github": "github.com/jaapbrasser"
             }
           }
         },
@@ -571,12 +547,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "PowerShell5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "vSphere Security Compliance in a DevOps World",
           "Speaker": {
             "Name": " Kyle Ruddy",
@@ -589,7 +565,7 @@
         },
         {
           "SessionId": "PowerShell6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "Keep on Running: Runspaces in the Wild",
           "Speaker": {
             "Name": "Friedrich Weinmann",
@@ -602,7 +578,7 @@
         },
         {
           "SessionId": "PowerShell7",
-          "Time": "5:15 PM - 6:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "'Now you have two problems!' - RegEx for PowerShellies",
           "Speaker": {
             "Name": "Mathias R. Jessen",
@@ -610,19 +586,6 @@
             "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Miriam.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/iisresetme"
-            }
-          }
-        },
-        {
-          "SessionId": "PowerShell8",
-          "Time": "6:15 PM - 7:00 PM",
-          "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
-          "Speaker": {
-            "Name": "Adam Murray",
-            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/muzzar78"
             }
           }
         }
@@ -695,13 +658,13 @@
         {
           "SessionId": "Cloud4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "",
+          "Title": "Using PowerShell in Azure Functions",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Chendrayan Venkatesan",
+            "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/ChendrayanV"
             }
           }
         },
@@ -815,13 +778,13 @@
         {
           "SessionId": "DevOps3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "Migrate from ISE to Visual Studio Code for PowerShell Development",
+          "Title": "Is your DSC environment secure? Probably not",
           "Speaker": {
-            "Name": "Tim Warner",
-            "Description": "Tim Warner is a Microsoft MVP in Cloud and Datacenter Management who is based in Nashville, TN. His professional specialties include Microsoft Azure, cross-platform PowerShell, and all things Windows Server-related. You can reach Tim via Twitter (@TechTrainerTim), LinkedIn or his website, techtrainertim.com.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/timwarner.png?raw=true",
+            "Name": "Ryan Bartram",
+            "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/TechTrainerTim"
+              "Twitter": "http://www.twitter.com/rd_bartram"
             }
           }
         },
@@ -930,13 +893,13 @@
         {
           "SessionId": "PowerShell2",
           "Time": "11:00 AM - 11:45 AM",
-          "Title": "",
+          "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Adam Murray",
+            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/muzzar78"
             }
           }
         },
