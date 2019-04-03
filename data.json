@@ -670,12 +670,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "Cloud5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -688,7 +688,7 @@
         },
         {
           "SessionId": "Cloud6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -701,20 +701,7 @@
         },
         {
           "SessionId": "Cloud7",
-          "Time": "5:15 PM - 6:00 PM",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "Cloud8",
-          "Time": "6:15 PM - 7:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -803,12 +790,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "DevOps5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -821,7 +808,7 @@
         },
         {
           "SessionId": "DevOps6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -834,20 +821,7 @@
         },
         {
           "SessionId": "DevOps7",
-          "Time": "5:15 PM - 6:00 PM",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "DevOps8",
-          "Time": "6:15 PM - 7:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -936,12 +910,12 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "2:45 PM - 3:15 PM",
+          "Time": "2:45 PM - 3:30 PM",
           "Title": "Break"
         },
         {
           "SessionId": "PowerShell5",
-          "Time": "3:15 PM - 4:00 PM",
+          "Time": "3:30 PM - 4:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -954,7 +928,7 @@
         },
         {
           "SessionId": "PowerShell6",
-          "Time": "4:15 PM - 5:00 PM",
+          "Time": "4:30 PM - 5:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
@@ -967,20 +941,7 @@
         },
         {
           "SessionId": "PowerShell7",
-          "Time": "5:15 PM - 6:00 PM",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "PowerShell8",
-          "Time": "6:15 PM - 7:00 PM",
+          "Time": "5:30 PM - 6:15 PM",
           "Title": "",
           "Speaker": {
             "Name": "",
