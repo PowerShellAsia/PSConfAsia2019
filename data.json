@@ -339,7 +339,7 @@
           "Title": "Become the Remoting Master",
           "Speaker": {
             "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell class worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
             "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/JasonYoder_MCT"
