@@ -667,10 +667,10 @@
           "Title": "Azure PowerShell Evolution: Get Comfortable with the Az Commands",
           "Speaker": {
             "Name": "Tim Warner",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Tim Warner is a Microsoft MVP in Cloud and Datacenter Management who is based in Nashville, TN. His professional specialties include Microsoft Azure, cross-platform PowerShell, and all things Windows Server-related. You can reach Tim via Twitter (@TechTrainerTim), LinkedIn or his website, techtrainertim.com.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/timwarner.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/TechTrainerTim"
             }
           }
         },
@@ -787,10 +787,10 @@
           "Title": "Ansible module development for using PowerShell",
           "Speaker": {
             "Name": "Prasoon Karunan V",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Prasoon Karunan V (a.k.a kvprasoon). I have been using PowerShell from the very starting of my career(around 5 years). PowerShell is the only language which amazed me as a Windows administrator and helped me to tranform to a Developer. I spent my off work hours helping community by participating in forums. I am proud to say  that 'I am a PowerShell Corecontributer too'. Apart from all, I am just another PowerShell fan",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/prasoonkarunan"
             }
           }
         },
@@ -818,10 +818,10 @@
           "Title": "Migrate from ISE to Visual Studio Code for PowerShell Development",
           "Speaker": {
             "Name": "Tim Warner",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Tim Warner is a Microsoft MVP in Cloud and Datacenter Management who is based in Nashville, TN. His professional specialties include Microsoft Azure, cross-platform PowerShell, and all things Windows Server-related. You can reach Tim via Twitter (@TechTrainerTim), LinkedIn or his website, techtrainertim.com.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/timwarner.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/TechTrainerTim"
             }
           }
         },
