@@ -84,6 +84,15 @@
       }
     },
     {
+      "Name": "Ajay Kakkar",
+      "Description": "Ajay is Microsoft Most Valuable Professional with diversified IT industry experience in end to end solution designing, engineering, enterprise architecture, presales, consulting, technical advisory, transition and transformation, project management, building, mentoring & managing technology teams. He is a blogger, and speaker in many forums (Microsoft conferences and local user groups) across the country for end-user, infrastructure and cloud technologies. He has also reviewed Microsoft Press books in the past.",
+      "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AK.jpg?raw=true",
+      "Social": {
+        "Blog": "",
+        "Twitter": ""
+      }
+    },
+    {
       "Name": "Senthamil Selvan",
       "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
       "ImageUrl": "~/images/sen.jpg",
