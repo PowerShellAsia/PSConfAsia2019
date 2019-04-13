@@ -743,7 +743,7 @@
         {
           "SessionId": "DevOps1",
           "Time": "10:00 AM - 10:45 AM",
-          "Title": "Ansible module development for using PowerShell",
+          "Title": "Ansible module development using PowerShell",
           "Speaker": {
             "Name": "Prasoon Karunan V",
             "Description": "Prasoon Karunan V (a.k.a kvprasoon). I have been using PowerShell from the very starting of my career(around 5 years). PowerShell is the only language which amazed me as a Windows administrator and helped me to tranform to a Developer. I spent my off work hours helping community by participating in forums. I am proud to say  that 'I am a PowerShell Corecontributer too'. Apart from all, I am just another PowerShell fan",
