@@ -746,7 +746,7 @@
           "Title": "Ansible module development using PowerShell",
           "Speaker": {
             "Name": "Prasoon Karunan V",
-            "Description": "Prasoon Karunan V (a.k.a kvprasoon). I have been using PowerShell from the very starting of my career(around 5 years). PowerShell is the only language which amazed me as a Windows administrator and helped me to tranform to a Developer. I spent my off work hours helping community by participating in forums. I am proud to say  that 'I am a PowerShell Corecontributer too'. Apart from all, I am just another PowerShell fan",
+            "Description": "Prasoon Karunan V (a.k.a kvprasoon) is a Software Technologist at Philips focusing on Infrastructure automation with PowerShell and ansible. He is a Moderator @ PowerShell.org and volunteer at [The DevOps Collective](devopscollective.org). Prasoon is a frequent contributor to PowerShell Core and is part of PowerShell User Group, Bangalore from 2015.",
             "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/prasoonkarunan"
