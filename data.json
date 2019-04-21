@@ -116,125 +116,223 @@
   "Tracks": [
     {
       "Day": "19 September 2019",
-      "Name": "",
+      "Name": "DSC",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "DSC1",
+          "Time": "9:00 AM - 10:30 AM",
+          "Title": "e DSC project blueprint or how to start a DSC project the right way",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Raimund Andree",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "https://twitter.com/raimundandree"
             }
           }
         },
         {
           "SessionId": "Common1",
-          "Time": "12:00 PM - 13:00 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "15:45 PM - 16:15 PM",
+          "Time": "10:30 AM - 10:45 AM",
           "Title": "Break"
         },
         {
+          "SessionId": "DSC2",
+          "Time": "10:45 AM - 12:30 PM",
+          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Speaker": {
+            "Name": "Raimund Andree",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "https://twitter.com/raimundandree"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:30 PM - 13:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DSC3",
+          "Time": "13:30 PM - 15:00 PM",
+          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Speaker": {
+            "Name": "Raimund Andree",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "https://twitter.com/raimundandree"
+            }
+          }
+        },
+        {
           "SessionId": "Common3",
-          "Time": "17:45 PM - 18:00 PM",
-          "Title": "Closing Session"
+          "Time": "15:00 PM - 15:15 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DSC4",
+          "Time": "15:15 PM - 17:00 PM",
+          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Speaker": {
+            "Name": "Raimund Andree",
+            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "https://twitter.com/raimundandree"
+            }
+          }
         }
       ]
     },
     {
       "Day": "19 September 2019",
-      "Name": "Workshop PowerShell Track",
+      "Name": "PowerShell",
       "Sessions": [
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell1",
+          "Time": "9:00 AM - 10:30 AM",
+          "Title": "Zero to Hero – The Fundamentals of PowerShell",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
             }
           }
         },
         {
           "SessionId": "Common1",
-          "Time": "12:00 PM - 13:00 PM",
-          "Title": "Lunch"
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "Break"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell2",
+          "Time": "10:45 AM - 12:30 PM",
+          "Title": "Zero to Hero – The Fundamentals of PowerShell",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
             }
           }
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
-            }
-        }
-        },
-        {
           "SessionId": "Common2",
-          "Time": "15:45 PM - 16:15 PM",
-          "Title": "Break"
+          "Time": "12:30 PM - 13:30 PM",
+          "Title": "Lunch"
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell3",
+          "Time": "13:30 PM - 15:00 PM",
+          "Title": "TDD with Pester",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/nohwnd"
             }
-      }
+          }
         },
         {
           "SessionId": "Common3",
-          "Time": "17:45 PM - 18:00 PM",
-          "Title": "Closing Session"
+          "Time": "15:00 PM - 15:15 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "PowerShell4",
+          "Time": "15:15 PM - 17:00 PM",
+          "Title": "TDD with Pester",
+          "Speaker": {
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/nohwnd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Day": "19 September 2019",
+      "Name": "PowerCLI",
+      "Sessions": [
+        {
+          "SessionId": "PowerCLI1",
+          "Time": "9:00 AM - 10:30 AM",
+          "Title": "PowerCLI – From Beginner to Advanced",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "PowerCLI2",
+          "Time": "10:45 AM - 12:30 PM",
+          "Title": "PowerCLI – From Beginner to Advanced",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:30 PM - 13:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "PowerCLI3",
+          "Time": "13:30 PM - 15:00 PM",
+          "Title": "PowerCLI – From Beginner to Advanced",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "15:00 PM - 15:15 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "PowerCLI4",
+          "Time": "15:15 PM - 17:00 PM",
+          "Title": "PowerCLI – From Beginner to Advanced",
+          "Speaker": {
+            "Name": " Kyle Ruddy",
+            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/kmruddy"
+            }
+          }
         }
       ]
     }
-
   ],
   "Tracks1": [
     {
