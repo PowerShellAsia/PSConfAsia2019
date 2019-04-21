@@ -121,7 +121,7 @@
         {
           "SessionId": "DSC1",
           "Time": "9:00 AM - 10:30 AM",
-          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Title": "The DSC project blueprint or how to start a DSC project the right way",
           "Speaker": {
             "Name": "Raimund Andree",
             "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
@@ -139,7 +139,7 @@
         {
           "SessionId": "DSC2",
           "Time": "10:45 AM - 12:30 PM",
-          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Title": "The DSC project blueprint or how to start a DSC project the right way",
           "Speaker": {
             "Name": "Raimund Andree",
             "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
@@ -157,7 +157,7 @@
         {
           "SessionId": "DSC3",
           "Time": "13:30 PM - 15:00 PM",
-          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Title": "The DSC project blueprint or how to start a DSC project the right way",
           "Speaker": {
             "Name": "Raimund Andree",
             "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
@@ -175,7 +175,7 @@
         {
           "SessionId": "DSC4",
           "Time": "15:15 PM - 17:00 PM",
-          "Title": "e DSC project blueprint or how to start a DSC project the right way",
+          "Title": "The DSC project blueprint or how to start a DSC project the right way",
           "Speaker": {
             "Name": "Raimund Andree",
             "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
