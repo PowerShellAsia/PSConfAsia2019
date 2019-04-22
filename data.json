@@ -189,7 +189,7 @@
     },
     {
       "Day": "19 September 2019",
-      "Name": "PowerShell & Pester",
+      "Name": "PowerShell",
       "Sessions": [
         {
           "SessionId": "PowerShell1",
@@ -230,13 +230,13 @@
         {
           "SessionId": "PowerShell3",
           "Time": "13:30 PM - 15:00 PM",
-          "Title": "TDD with Pester",
+          "Title": "Zero to Hero – The Fundamentals of PowerShell",
           "Speaker": {
-            "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/nohwnd"
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
             }
           }
         },
@@ -248,13 +248,13 @@
         {
           "SessionId": "PowerShell4",
           "Time": "15:15 PM - 17:00 PM",
-          "Title": "TDD with Pester",
+          "Title": "Zero to Hero – The Fundamentals of PowerShell",
           "Speaker": {
-            "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+            "Name": "Jason Yoder",
+            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/nohwnd"
+              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
             }
           }
         }
@@ -262,7 +262,7 @@
     },
     {
       "Day": "19 September 2019",
-      "Name": "PowerCLI",
+      "Name": "PowerCLI  & Pester",
       "Sessions": [
         {
           "SessionId": "PowerCLI1",
@@ -303,13 +303,13 @@
         {
           "SessionId": "PowerCLI3",
           "Time": "13:30 PM - 15:00 PM",
-          "Title": "PowerCLI – From Beginner to Advanced",
+          "Title": "TDD with Pester",
           "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+              "Twitter": "http://www.twitter.com/nohwnd"
             }
           }
         },
@@ -321,13 +321,13 @@
         {
           "SessionId": "PowerCLI4",
           "Time": "15:15 PM - 17:00 PM",
-          "Title": "PowerCLI – From Beginner to Advanced",
+          "Title": "TDD with Pester",
           "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Name": "Jakub Jares",
+            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+              "Twitter": "http://www.twitter.com/nohwnd"
             }
           }
         }
