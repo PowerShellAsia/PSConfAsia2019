@@ -93,6 +93,15 @@
       }
     },
     {
+      "Name": "Alok Agrawal",
+      "Description": "Alok is technology evangelist, he has spent two decades in solution consulting and architectures. He’s the founder managing partner for Tecoholic, focuses on learning enablement and cloud consulting to enhance business productivity. With cloud security in mind, helps organizations with compliance, governance and best practice adaption. In the past, he’s helped large enterprises for many years optimizing the business productivity in his varies roles in architecture, practice management and global portfolio management.",
+      "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Alok.jpeg?raw=true",
+      "Social": {
+        "Blog": "",
+        "Twitter": ""
+      }
+    },
+    {
       "Name": "Senthamil Selvan",
       "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
       "ImageUrl": "~/images/sen.jpg",
