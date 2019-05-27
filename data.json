@@ -408,7 +408,7 @@
         {
           "SessionId": "Cloud4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Real world REST API building with Polaris: Terraform Registry!",
+          "Title": "Real world REST API building with PowerShell in Azure Functions: Terraform Registry!",
           "Speaker": {
             "Name": "Ben Gelens",
             "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
@@ -1015,7 +1015,7 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Create Beauitfull HTML Reports with PowerShell",
+          "Title": "Create Beautiful HTML Reports with PowerShell",
           "Speaker": {
               "Name": "Jeffrey Hicks",
               "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
