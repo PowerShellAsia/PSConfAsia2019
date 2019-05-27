@@ -638,9 +638,9 @@
           "Time": "1:00 PM - 1:45 PM",
           "Title": "The State of PowerShell",
           "Speaker": {
-            "Name": "Sydney",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Sydney Smith",
+            "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
             "Social": {
               "Twitter": ""
             }
@@ -652,8 +652,8 @@
           "Title": "Building a Serverless Compliance in a DevOps World",
           "Speaker": {
             "Name": "Aditya Patwardhan",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
             "Social": {
               "Twitter": ""
             }
@@ -807,11 +807,11 @@
           "Time": "4:00 PM - 4:45 PM",
           "Title": "Cross-platform Scripting with VS Code and PSSA",
           "Speaker": {
-            "Name": "Rob Sewell",
-            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
+            "Name": "Robert Holt",
+            "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/sqldbawithbeard"
+              "Twitter": ""
             }
           }
         },
@@ -915,8 +915,8 @@
           "Title": "PowerShell in CI/CD Pipelines",
           "Speaker": {
             "Name": "Aditya Patwardhan",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
             "Social": {
               "Twitter": ""
             }
@@ -974,8 +974,8 @@
           "Title": "PowerShell Module Internals: From Manifest to Memory",
           "Speaker": {
             "Name": "Robert Holt",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
             "Social": {
               "Twitter": ""
             }
