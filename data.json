@@ -728,13 +728,13 @@
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "WebAPI's with PowerShell in Docker. Who says I'm not a real dev? ",
+          "Title": "",
           "Speaker": {
-            "Name": "Adam Murray",
-            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+            "Name": "",
+            "Description": "",
+            "ImageUrl": "",
             "Social": {
-              "Twitter": "http://www.twitter.com/muzzar78"
+              "Twitter": ""
             }
           }
         },
