@@ -636,9 +636,9 @@
         {
           "SessionId": "PowerShell3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "",
+          "Title": "The State of PowerShell",
           "Speaker": {
-            "Name": "",
+            "Name": "Sydney",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -649,9 +649,9 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "",
+          "Title": "Building a Serverless Compliance in a DevOps World",
           "Speaker": {
-            "Name": "",
+            "Name": "Aditya Patwardhan",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -805,13 +805,13 @@
         {
           "SessionId": "Cloud6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "",
+          "Title": "Cross-platform Scripting with VS Code and PSSA",
           "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Rob Sewell",
+            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/sqldbawithbeard"
             }
           }
         },
@@ -912,9 +912,9 @@
         {
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "",
+          "Title": "PowerShell in CI/CD Pipelines",
           "Speaker": {
-            "Name": "",
+            "Name": "Aditya Patwardhan",
             "Description": "",
             "ImageUrl": "",
             "Social": {
@@ -971,9 +971,9 @@
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "",
+          "Title": "PowerShell Module Internals: From Manifest to Memory",
           "Speaker": {
-            "Name": "",
+            "Name": "Robert Holt",
             "Description": "",
             "ImageUrl": "",
             "Social": {
