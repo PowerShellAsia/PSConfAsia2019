@@ -296,11 +296,11 @@
           "Time": "10:45 AM - 12:30 PM",
           "Title": "PowerCLI – From Beginner to Advanced",
           "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+            "Name": "Luc Dekens",
+            "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
             "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+              "Twitter": "http://www.twitter.com/LucD22"
             }
           }
         },
