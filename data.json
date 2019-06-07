@@ -488,7 +488,7 @@
           "Speaker": {
             "Name": "Mark Kraus",
             "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
-            "ImageUrl": "",
+            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
             "Social": {
               "Twitter": "http://www.twitter.com/markekraus"
             }
