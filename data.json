@@ -10,11 +10,7 @@
     "Facebook": "https://www.facebook.com/singaporepowershell/",
     "Twitter": "http://www.twitter.com/psconfasia"
   },
-  "Callout": {
-    "Text": "Attending from Overseas, Buy ticket ONLY for 2 Conference Days here",
-    "Link": "https://www.paypal.me/miltongoh/USD87",
-    "Type": "warning"
-  },
+
   "Campaigns": [
     {
       "Text": "Survey",
@@ -113,11 +109,12 @@
   ],
   "Sponsors": [
     {
-      "Name": "",
-      "Image": "",
-      "Link": "",
+      "Name": "System Frontier",
+      "Image": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/picture/systemfrontier.png?raw=true",
+      "Link": "https://www.systemfrontier.com/solutions/powershell",
       "Category": ""
     }
+
   ],
   "Prizes": [
 
@@ -131,14 +128,16 @@
           "SessionId": "DSC1",
           "Time": "9:00 AM - 10:30 AM",
           "Title": "The DSC project blueprint or how to start a DSC project the right way",
-          "Speaker": {
-            "Name": "Raimund Andree",
-            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
-            "Social": {
-              "Twitter": "https://twitter.com/raimundandree"
+          "Speakers": [
+            {
+              "Name": "Raimund Andree",
+              "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+              "Social": {
+                "Twitter": "https://twitter.com/raimundandree"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common1",
@@ -149,14 +148,16 @@
           "SessionId": "DSC2",
           "Time": "10:45 AM - 12:30 PM",
           "Title": "The DSC project blueprint or how to start a DSC project the right way",
-          "Speaker": {
-            "Name": "Raimund Andree",
-            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
-            "Social": {
-              "Twitter": "https://twitter.com/raimundandree"
+          "Speakers": [
+            {
+              "Name": "Raimund Andree",
+              "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+              "Social": {
+                "Twitter": "https://twitter.com/raimundandree"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -167,14 +168,16 @@
           "SessionId": "DSC3",
           "Time": "13:30 PM - 15:00 PM",
           "Title": "The DSC project blueprint or how to start a DSC project the right way",
-          "Speaker": {
-            "Name": "Raimund Andree",
-            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
-            "Social": {
-              "Twitter": "https://twitter.com/raimundandree"
+          "Speakers": [
+            {
+              "Name": "Raimund Andree",
+              "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+              "Social": {
+                "Twitter": "https://twitter.com/raimundandree"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -185,14 +188,16 @@
           "SessionId": "DSC4",
           "Time": "15:15 PM - 17:00 PM",
           "Title": "The DSC project blueprint or how to start a DSC project the right way",
-          "Speaker": {
-            "Name": "Raimund Andree",
-            "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
-            "Social": {
-              "Twitter": "https://twitter.com/raimundandree"
+          "Speakers": [
+            {
+              "Name": "Raimund Andree",
+              "Description": "Microsoft Premire Field Engineer focusing mainly on PowerShell, DevOps and DSC.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/raimund.jpg?raw=true",
+              "Social": {
+                "Twitter": "https://twitter.com/raimundandree"
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -204,14 +209,16 @@
           "SessionId": "PowerShell1",
           "Time": "9:00 AM - 10:30 AM",
           "Title": "Zero to Hero – The Fundamentals of PowerShell",
-          "Speaker": {
-            "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+          "Speakers": [
+            {
+              "Name": "Jason Yoder",
+              "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common1",
@@ -222,14 +229,16 @@
           "SessionId": "PowerShell2",
           "Time": "10:45 AM - 12:30 PM",
           "Title": "Zero to Hero – The Fundamentals of PowerShell",
-          "Speaker": {
-            "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+          "Speakers": [
+            {
+              "Name": "Jason Yoder",
+              "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -240,14 +249,16 @@
           "SessionId": "PowerShell3",
           "Time": "13:30 PM - 15:00 PM",
           "Title": "Zero to Hero – The Fundamentals of PowerShell",
-          "Speaker": {
-            "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+          "Speakers": [
+            {
+              "Name": "Jason Yoder",
+              "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -258,14 +269,16 @@
           "SessionId": "PowerShell4",
           "Time": "15:15 PM - 17:00 PM",
           "Title": "Zero to Hero – The Fundamentals of PowerShell",
-          "Speaker": {
-            "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+          "Speakers": [
+            {
+              "Name": "Jason Yoder",
+              "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -277,14 +290,24 @@
           "SessionId": "PowerCLI1",
           "Time": "9:00 AM - 10:30 AM",
           "Title": "PowerCLI – From Beginner to Advanced",
-          "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+          "Speakers": [
+            {
+              "Name": " Kyle Ruddy",
+              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/kmruddy"
+              }
+            },
+            {
+              "Name": "Luc Dekens",
+              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/LucD22"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common1",
@@ -292,17 +315,27 @@
           "Title": "Break"
         },
         {
-          "SessionId": "PowerCLI2",
+          "SessionId": "PowerCLI1",
           "Time": "10:45 AM - 12:30 PM",
           "Title": "PowerCLI – From Beginner to Advanced",
-          "Speaker": {
-            "Name": "Luc Dekens",
-            "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/LucD22"
+          "Speakers": [
+            {
+              "Name": "Luc Dekens",
+              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/LucD22"
+              }
+            },
+            {
+              "Name": " Kyle Ruddy",
+              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/kmruddy"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -313,14 +346,16 @@
           "SessionId": "PowerCLI3",
           "Time": "13:30 PM - 15:00 PM",
           "Title": "TDD with Pester",
-          "Speaker": {
-            "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/nohwnd"
+          "Speakers": [
+            {
+              "Name": "Jakub Jares",
+              "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/nohwnd"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -331,14 +366,16 @@
           "SessionId": "PowerCLI4",
           "Time": "15:15 PM - 17:00 PM",
           "Title": "TDD with Pester",
-          "Speaker": {
-            "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/nohwnd"
+          "Speakers": [
+            {
+              "Name": "Jakub Jares",
+              "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/nohwnd"
+              }
             }
-          }
+          ]
         }
       ]
     }
@@ -352,40 +389,46 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
           "Title": "Getting started with Graph API and PowerShell",
-          "Speaker": {
-            "Name": "Alexander Holmeset",
-            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/AlexHolmeset"
+          "Speakers": [
+            {
+              "Name": "Alexander Holmeset",
+              "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/AlexHolmeset"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "Polaris + PSHTML - PSFabric | PowerShell Community Projects",
-          "Speaker": {
-            "Name": "Chendrayan Venkatesan",
-            "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/ChendrayanV"
+          "Speakers": [
+            {
+              "Name": "Chendrayan Venkatesan",
+              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/ChendrayanV"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -396,27 +439,31 @@
           "SessionId": "Cloud3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "Extending PowerShell Types and Formats",
-          "Speaker": {
-            "Name": "Jeffrey Hicks",
-            "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JeffHicks"
+          "Speakers": [
+            {
+              "Name": "Jeffrey Hicks",
+              "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JeffHicks"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Real world REST API building with PowerShell in Azure Functions: Terraform Registry!",
-          "Speaker": {
-            "Name": "Ben Gelens",
-            "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/BenGelens.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/bgelens"
+          "Speakers": [
+            {
+              "Name": "Ben Gelens",
+              "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/BenGelens.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/bgelens"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -427,40 +474,46 @@
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
-          "Speaker": {
-            "Name": "Rob Sewell",
-            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/sqldbawithbeard"
+          "Speakers": [
+            {
+              "Name": "Rob Sewell",
+              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/sqldbawithbeard"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -472,40 +525,46 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps1",
           "Time": "10:15 AM - 11:00 AM",
           "Title": "Better Ops Together: Practical PowerShell Pair Programming Patterns and Practices with VS Code",
-          "Speaker": {
-            "Name": "Mark Kraus",
-            "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/markekraus"
+          "Speakers": [
+            {
+              "Name": "Mark Kraus",
+              "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/markekraus"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -516,71 +575,81 @@
           "SessionId": "DevOps3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "WebAPI's with PowerShell in Docker. Who saysI'm not real dev?",
-          "Speaker": {
-            "Name": "Ryan Bartram",
-            "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/rd_bartram"
+          "Speakers": [
+            {
+              "Name": "Ryan Bartram",
+              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/rd_bartram"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Making your work visible - Including telemetry in your PowerShell modules",
-          "Speaker": {
-            "Name": "Jan-Hendrik Peters",
-            "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/NyanHP"
+          "Speakers": [
+            {
+              "Name": "Jan-Hendrik Peters",
+              "Description": "Having worked at an international grocery chain for 4 years where I automated the deployment of over 20.000 nodes, I quickly developed my love for PowerShell, Desired State Configuration and automation in general. As a Microsoft, Premier Field Engineer I now help my customers adopt a DevOps style. This includes introducing DSC into their environment, developing release pipelines and generally automating things.",
+              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/JanPeters.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/NyanHP"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
           "Time": "2:45 PM - 3:00 PM",
-          "Title": "Break"
+          "Title": "Day Close-up"
         },
         {
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "Pester internals and concepts",
-          "Speaker": {
-            "Name": "Jakub Jares",
-            "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/nohwnd"
+          "Speakers": [
+            {
+              "Name": "Jakub Jares",
+              "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/nohwnd"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "PowerShell Anywhere - Azure Cloud Shell",
-          "Speaker": {
-            "Name": "Adam Murray",
-            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/muzzar78"
+          "Speakers": [
+            {
+              "Name": "Adam Murray",
+              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/muzzar78"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
-          "Speaker": {
-            "Name": "David O'Brien",
-            "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/david_obrien"
+          "Speakers": [
+            {
+              "Name": "David O'Brien",
+              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/david_obrien"
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -592,116 +661,124 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
-        },
-        {
-          "SessionId": "PowerShell1",
-          "Time": "10:15 AM - 11:00 AM",
-          "Title": "Visualize and Document Infrastructure with PowerShell",
-          "Speaker": {
-            "Name": "Prateek Singh",
-            "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/SinghPrateik"
-            }
-          }
-
+          ]
         },
         {
           "SessionId": "PowerShell2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "Become the Remoting Master",
-          "Speaker": {
-            "Name": "Jason Yoder",
-            "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+          "Speakers": [
+            {
+              "Name": "Jason Yoder",
+              "Description": "Jason Yoder is a Microsoft Certified Trainer and international conference speaker who has delivered over 100 PowerShell classes worldwide. Jason combines his experience as a Network Administrator, his education as a Computer Scientist, and as an MCSE to show his students how to develop real solutions to real problems using Windows PowerShell. Jason is the Author of Advanced Windows PowerShell Scripting video training series with O'Reilly media and the Technical Reviewer for Microsoft's official instructor led PowerShell Training.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JasonYoder_MCT"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Break"
         },
         {
           "SessionId": "PowerShell3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "The State of PowerShell",
-          "Speaker": {
-            "Name": "Sydney Smith",
-            "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "Sydney Smith",
+              "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Building a Serverless Compliance in a DevOps World",
-          "Speaker": {
-            "Name": "Aditya Patwardhan",
-            "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "Aditya Patwardhan",
+              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
           "Time": "2:45 PM - 3:00 PM",
-          "Title": "Break"
+          "Title": "Day Close-up"
         },
         {
           "SessionId": "PowerShell5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "vSphere Security Compliance in a DevOps World",
-          "Speaker": {
-            "Name": " Kyle Ruddy",
-            "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/kmruddy"
+          "Speakers": [
+            {
+              "Name": "Luc Dekens",
+              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/LucD22"
+              }
+            },
+            {
+              "Name": " Kyle Ruddy",
+              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/kmruddy"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "Keep on Running: Runspaces in the Wild",
-          "Speaker": {
-            "Name": "Friedrich Weinmann",
-            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/FredWeinmann"
+          "Speakers": [
+            {
+              "Name": "Friedrich Weinmann",
+              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/FredWeinmann"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "'Now you have two problems!' - RegEx for PowerShellies",
-          "Speaker": {
-            "Name": "Mathias R. Jessen",
-            "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016 ",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/iisresetme"
+          "Speakers": [
+            {
+              "Name": "Mathias R. Jessen",
+              "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016 ",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/iisresetme"
+              }
             }
-          }
+          ]
         }
       ]
     }
@@ -716,42 +793,48 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "Mastering VSCode - The modern tool for next-gen engineer",
-          "Speaker": {
-            "Name": "Jaap Brasser",
-            "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
-            "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
-            "Social": {
-              "Blog": "jaapbrasser.com",
-              "Twitter": "http://www.twitter.com/jaap_brasser",
-              "Github": "github.com/jaapbrasser"
-                  }
-          }
+          "Speakers": [
+            {
+              "Name": "Jaap Brasser",
+              "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
+              "Social": {
+                "Blog": "jaapbrasser.com",
+                "Twitter": "http://www.twitter.com/jaap_brasser",
+                "Github": "github.com/jaapbrasser"
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -762,27 +845,31 @@
           "SessionId": "Cloud3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "PowerShell based APIs - on kubernetes!",
-          "Speaker": {
-            "Name": "David O'Brien",
-            "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/david_obrien"
+          "Speakers": [
+            {
+              "Name": "David O'Brien",
+              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/david_obrien"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Using PowerShell in Azure Functions",
-          "Speaker": {
-            "Name": "Chendrayan Venkatesan",
-            "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/ChendrayanV"
+          "Speakers": [
+            {
+              "Name": "Chendrayan Venkatesan",
+              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/ChendrayanV"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -793,40 +880,46 @@
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "Cross-platform Scripting with VS Code and PSSA",
-          "Speaker": {
-            "Name": "Robert Holt",
-            "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "Robert Holt",
+              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "PSCache - simple strategies for magnificent performance ",
-          "Speaker": {
-            "Name": "Mathias R. Jessen",
-            "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/iisresetme"
+          "Speakers": [
+            {
+              "Name": "Mathias R. Jessen",
+              "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/iisresetme"
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -838,40 +931,54 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps1",
           "Time": "10:15 AM - 11:00 AM",
           "Title": "Ansible module development using PowerShell",
-          "Speaker": {
-            "Name": "Prasoon Karunan V",
-            "Description": "Prasoon Karunan V (a.k.a kvprasoon) is a Software Technologist at Philips focusing on Infrastructure automation with PowerShell and ansible. He is a Moderator @ PowerShell.org and volunteer at [The DevOps Collective](devopscollective.org). Prasoon is a frequent contributor to PowerShell Core and is part of PowerShell User Group, Bangalore from 2015.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/prasoonkarunan"
+          "Speakers": [
+            {
+              "Name": "Prasoon Karunan V",
+              "Description": "Prasoon Karunan V (a.k.a kvprasoon) is a Software Technologist at Philips focusing on Infrastructure automation with PowerShell and ansible. He is a Moderator @ PowerShell.org and volunteer at [The DevOps Collective](devopscollective.org). Prasoon is a frequent contributor to PowerShell Core and is part of PowerShell User Group, Bangalore from 2015.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/prasoonkarunan"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "Manage vSphere with PowerCLI DSC Resources, Finally!",
-          "Speaker": {
-            "Name": "Luc Dekens",
-            "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/LucD22"
+          "Speakers": [
+            {
+              "Name": " Kyle Ruddy",
+              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/kmruddy"
+              }
+            },
+            {
+              "Name": "Luc Dekens",
+              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/LucD22"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -882,27 +989,31 @@
           "SessionId": "DevOps3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "Is your DSC environment secure? Probably not",
-          "Speaker": {
-            "Name": "Ryan Bartram",
-            "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/rd_bartram"
+          "Speakers": [
+            {
+              "Name": "Ryan Bartram",
+              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/rd_bartram"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Managing Teams using Graph API",
-          "Speaker": {
-            "Name": "Alexander Holmeset",
-            "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/AlexHolmeset"
+          "Speakers": [
+            {
+              "Name": "Alexander Holmeset",
+              "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/AlexHolmeset"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -913,41 +1024,55 @@
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "PowerShell in CI/CD Pipelines",
-          "Speaker": {
-            "Name": "Aditya Patwardhan",
-            "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "Aditya Patwardhan",
+              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "DevOps6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "Power of the Console - Cognitive abilities to colorful Graphs and Grids",
-          "Speaker": {
-            "Name": "Prateek Singh",
-            "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
-            "Social": {
-              "Blog": "",
-              "Twitter": "http://www.twitter.com/SinghPrateik"
-                  }
-          }
+          "Speakers": [
+            {
+              "Name": "Prateek Singh",
+              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
+              "Social": {
+                "Blog": "",
+                "Twitter": "http://www.twitter.com/SinghPrateik"
+              }
+            }
+          ]
         },
         {
           "SessionId": "DevOps7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
-          "Speaker": {
-            "Name": "Girish",
-            "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps,Continuous Delivery and ALM in microsoft stack, he is passionate to learn new technologies.",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": "http://www.twitter.com/girishtweek"
+          "Speakers": [
+            {
+              "Name": "Girish",
+              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps,Continuous Delivery and ALM in microsoft stack, he is passionate to learn new technologies.",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": "http://www.twitter.com/girishtweek"
+              }
+            },
+            {
+              "Name": "Chendrayan Venkatesan",
+              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/ChendrayanV"
+              }
             }
-          }
+          ]
         }
       ]
     },
@@ -959,40 +1084,46 @@
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "KeyNote",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
           "Title": "PowerShell Module Internals: From Manifest to Memory",
-          "Speaker": {
-            "Name": "Robert Holt",
-            "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "Robert Holt",
+              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
-          "Speaker": {
-            "Name": "Adam Murray",
-            "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/muzzar78"
+          "Speakers": [
+            {
+              "Name": "Adam Murray",
+              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/muzzar78"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "Common2",
@@ -1003,27 +1134,31 @@
           "SessionId": "PowerShell3",
           "Time": "1:00 PM - 1:45 PM",
           "Title": "",
-          "Speaker": {
-            "Name": "",
-            "Description": "",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": ""
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
           "Title": "Create Beautiful HTML Reports with PowerShell",
-          "Speaker": {
+          "Speakers": [
+            {
               "Name": "Jeffrey Hicks",
               "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/JeffHicks"
               }
-          }
+            }
+          ]
         },
         {
           "SessionId": "Common3",
@@ -1034,42 +1169,48 @@
           "SessionId": "PowerShell5",
           "Time": "3:00 PM - 3:45 PM",
           "Title": "Deep Web: A Web Cmdlets Deep Dive",
-          "Speaker": {
-            "Name": "Mark Kraus",
-            "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/markekraus"
+          "Speakers": [
+            {
+              "Name": "Mark Kraus",
+              "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/markekraus"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell6",
           "Time": "4:00 PM - 4:45 PM",
           "Title": "A babelfish tale: Multilingual module design",
-          "Speaker": {
-            "Name": "Friedrich Weinmann",
-            "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/FredWeinmann"
+          "Speakers": [
+            {
+              "Name": "Friedrich Weinmann",
+              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/FredWeinmann"
+              }
             }
-          }
+          ]
         },
         {
           "SessionId": "PowerShell7",
           "Time": "5:00 PM - 5:45 PM",
           "Title": "PowerShell and SQL Server",
-          "Speaker": {
-            "Name": "Rob Sewell",
-            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-            "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
-            "Social": {
-              "Twitter": "http://www.twitter.com/sqldbawithbeard"
+          "Speakers": [
+            {
+              "Name": "Rob Sewell",
+              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/sqldbawithbeard"
+              }
             }
-          }
+          ]
         }
       ]
     }
-          ]
-        }
+  ]
+}
