@@ -673,6 +673,21 @@
           ]
         },
         {
+          "SessionId": "PowerShell1",
+          "Time": "10:15 AM - 11:00 AM",
+          "Title": "Visualize and Document Infrastructure with PowerShell",
+          "Speakers": [
+            {
+              "Name": "Prateek Singh",
+              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/SinghPrateik"
+                }
+            }
+          ]
+        },
+        {
           "SessionId": "PowerShell2",
           "Time": "11:15 AM - 12:00 PM",
           "Title": "Become the Remoting Master",
