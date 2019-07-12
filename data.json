@@ -473,14 +473,14 @@
         {
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "",
+          "Title": "Building Dynamic Interfaces with Universal Dashboard",
           "Speakers": [
             {
-              "Name": "",
+              "Name": "Adam Driscoll",
               "Description": "",
               "ImageUrl": "",
               "Social": {
-                "Twitter": ""
+                "Twitter": "https://twitter.com/adamdriscoll"
               }
             }
           ]
@@ -894,14 +894,14 @@
         {
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "",
+          "Title": "Creating Interactive Maps with Universal Dashboard",
           "Speakers": [
             {
-              "Name": "",
+              "Name": "Adam Driscoll",
               "Description": "",
               "ImageUrl": "",
               "Social": {
-                "Twitter": ""
+                "Twitter": "https://twitter.com/adamdriscoll"
               }
             }
           ]
