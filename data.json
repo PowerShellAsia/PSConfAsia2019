@@ -113,6 +113,12 @@
       "Image": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/systemfrontier.png?raw=true",
       "Link": "http://www.systemfrontier.com/solutions/powershell",
       "Category": ""
+    },
+    {
+      "Name": "VMware",
+      "Image": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/VMware.jpg?raw=true",
+      "Link": "http://www.vmware.com",
+      "Category": ""
     }
 
   ],
