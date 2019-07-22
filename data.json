@@ -409,14 +409,14 @@
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "Getting started with Graph API and PowerShell",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Alexander Holmeset",
-              "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/AlexHolmeset"
+                "Twitter": ""
               }
             }
           ]
@@ -1024,14 +1024,14 @@
         {
           "SessionId": "DevOps4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Managing Teams using Graph API",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Alexander Holmeset",
-              "Description": "Alexander Holmeset is Cloud Consultant at CloudWay. He currently blogs at skype4bworld.com. He is very passionate about unified communication and automation. He has an extensive background from customer care and have an eye for understanding what the end user needs. Experienced with international spread videoconference systems, IP Telephony, end user training/support and advanced troubleshooting. Alexander´s focus is everything Skype for Business, Office 365 and automation with PowerShell. He will strive to deliver stable and user-friendly solutions that meets customer requirements and help them start taking use of the advantages in Office 365. Certified in ITIL Foundation framework and is an MCSE Productivity. His motto is: If you are going to do something more than once, then automate it.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/AlexHolmeset.jpg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/AlexHolmeset"
+                "Twitter": ""
               }
             }
           ]
@@ -1119,14 +1119,15 @@
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "PowerShell Module Internals: From Manifest to Memory",
-          "Speakers": [
-            {
-              "Name": "Robert Holt",
-              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
-              "Social": {
-                "Twitter": ""
+                "Title": "Create Beautiful HTML Reports with PowerShell",
+                "Speakers": [
+                  {
+                    "Name": "Jeffrey Hicks",
+                    "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+                    "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+                    "Social": {
+                      "Twitter": "http://www.twitter.com/JeffHicks"
+      
               }
             }
           ]
@@ -1169,14 +1170,14 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Create Beautiful HTML Reports with PowerShell",
+          "Title": "PowerShell Module Internals: From Manifest to Memory",
           "Speakers": [
             {
-              "Name": "Jeffrey Hicks",
-              "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+              "Name": "Robert Holt",
+              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/JeffHicks"
+                "Twitter": ""
               }
             }
           ]
