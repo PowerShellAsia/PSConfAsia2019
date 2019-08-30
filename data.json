@@ -119,6 +119,12 @@
       "Image": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/VMware.jpg?raw=true",
       "Link": "http://www.vmware.com",
       "Category": ""
+    },
+    {
+      "Name": "Manning",
+      "Image": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Manninglogo.png?raw=true",
+      "Link": "https://www.manning.com/",
+      "Category": ""
     }
 
   ],
