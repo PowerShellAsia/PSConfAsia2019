@@ -400,7 +400,7 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
+          "Title": "",
           "Speakers": [
             {
               "Name": "",
@@ -536,12 +536,12 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
+          "Title": "The State of PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Sydney Smith",
+              "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
               "Social": {
                 "Twitter": ""
               }
@@ -672,12 +672,12 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
+          "Title": "The State of PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Sydney Smith",
+              "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
               "Social": {
                 "Twitter": ""
               }
@@ -737,7 +737,7 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Building a Serverless Compliance in a DevOps World",
+          "Title": "Building a Serverless Application in PowerShell",
           "Speakers": [
             {
               "Name": "Aditya Patwardhan",
@@ -1050,7 +1050,7 @@
         {
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "PowerShell in CI/CD Pipelines",
+          "Title": "PowerShell Team's in CI/CD Pipelines",
           "Speakers": [
             {
               "Name": "Aditya Patwardhan",
