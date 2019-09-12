@@ -400,12 +400,12 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10:00 AM",
-          "Title": "",
+          "Title": "The State of PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Sydney Smith",
+              "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
               "Social": {
                 "Twitter": ""
               }
@@ -722,12 +722,12 @@
         {
           "SessionId": "PowerShell3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "The State of PowerShell",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Sydney Smith",
-              "Description": "Sydney is a Program Manager on the PowerShell Team. Among other things she focuses on the PowerShell editing experience, the PowerShell extension in VSCode, PowerShell Gallery and, PowerShell Get.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/sydneysmith.jpg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
                 "Twitter": ""
               }
