@@ -743,7 +743,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "",
+              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
                 "Twitter": "https://twitter.com/adamdriscoll"
@@ -828,12 +828,32 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 9:15 AM",
-          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common2",
           "Time": "9:15 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!"
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Cloud1",
@@ -857,7 +877,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "",
+              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
               "Twitter": "https://twitter.com/adamdriscoll"
@@ -868,7 +888,17 @@
         {
           "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common4",
@@ -959,24 +989,44 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 9:15 AM",
-          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common2",
           "Time": "9:15 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!"
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "DevOps1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "Ansible module development using PowerShell",
+          "Title": "PowerShell Team's in CI/CD Pipelines",
           "Speakers": [
             {
-              "Name": "Prasoon Karunan V",
-              "Description": "Prasoon Karunan V (a.k.a kvprasoon) is a Software Technologist at Philips focusing on Infrastructure automation with PowerShell and ansible. He is a Moderator @ PowerShell.org and volunteer at [The DevOps Collective](devopscollective.org). Prasoon is a frequent contributor to PowerShell Core and is part of PowerShell User Group, Bangalore from 2015.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
+              "Name": "Aditya Patwardhan",
+              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/prasoonkarunan"
+                "Twitter": ""
               }
             }
           ]
@@ -1007,7 +1057,17 @@
         {
           "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common4",
@@ -1027,14 +1087,14 @@
         {
           "SessionId": "DevOps4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "",
+          "Title": "Ansible module development using PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Prasoon Karunan V",
+              "Description": "Prasoon Karunan V (a.k.a kvprasoon) is a Software Technologist at Philips focusing on Infrastructure automation with PowerShell and ansible. He is a Moderator @ PowerShell.org and volunteer at [The DevOps Collective](devopscollective.org). Prasoon is a frequent contributor to PowerShell Core and is part of PowerShell User Group, Bangalore from 2015.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/PS.jpg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/prasoonkarunan"
               }
             }
           ]
@@ -1047,14 +1107,14 @@
         {
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "PowerShell Team's in CI/CD Pipelines",
+          "Title": "PowerShell and SQL Server",
           "Speakers": [
             {
-              "Name": "Aditya Patwardhan",
-              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
+              "Name": "Rob Sewell",
+              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/sqldbawithbeard"
               }
             }
           ]
@@ -1062,15 +1122,14 @@
         {
           "SessionId": "DevOps6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "Power of the Console - Cognitive abilities to colorful Graphs and Grids",
+          "Title": "Is your DSC environment secure? Probably not",
           "Speakers": [
             {
-              "Name": "Prateek Singh",
-              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
+              "Name": "Ryan Bartram",
+              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
               "Social": {
-                "Blog": "",
-                "Twitter": "http://www.twitter.com/SinghPrateik"
+                "Twitter": "http://www.twitter.com/rd_bartram"
               }
             }
           ]
@@ -1078,27 +1137,17 @@
         {
           "SessionId": "DevOps7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Girish",
-              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps, Continuous Delivery and ALM in microsoft stack.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/girish.jpeg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/girishtweek"
-              }
-            },
-            {
-              "Name": "Chendrayan Venkatesan",
-              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/ChendrayanV"
+                "Twitter": ""
               }
             }
           ]
-        }
-      ]
     },
     {
       "Day": "21 September 2019",
@@ -1107,25 +1156,44 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 9:15 AM",
-          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common2",
           "Time": "9:15 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!"
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-                "Title": "Create Beautiful HTML Reports with PowerShell",
-                "Speakers": [
-                  {
-                    "Name": "Jeffrey Hicks",
-                    "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-                    "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
-                    "Social": {
-                      "Twitter": "http://www.twitter.com/JeffHicks"
-      
+          "Title": "Mastering VSCode - The modern tool for next-gen engineer",
+          "Speakers": [
+            {
+              "Name": "Jaap Brasser",
+              "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/jaap_brasser"
               }
             }
           ]
@@ -1148,7 +1216,17 @@
         {
           "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Common4",
