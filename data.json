@@ -1195,7 +1195,7 @@
                     "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
                     "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
                     "Social": {
-                      "Twitter": "http://www.twitter.com/jaap_brasser",
+                      "Twitter": "http://www.twitter.com/jaap_brasser"
               }
             }
           ]
@@ -1298,14 +1298,14 @@
         {
           "SessionId": "PowerShell7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "PowerShell and SQL Server",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Rob Sewell",
-              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/sqldbawithbeard"
+                "Twitter": ""
               }
             }
           ]
