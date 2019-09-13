@@ -515,23 +515,17 @@
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Girish",
-              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps, Continuous Delivery and ALM in microsoft stack.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/girish.jpeg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/girishtweek"
+                "Twitter": ""
               }
-            },
-            {
-              "Name": "Chendrayan Venkatesan",
-              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/ChendrayanV"
             }
+          ]
         }
       ]
     },
