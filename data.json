@@ -743,7 +743,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
+              "Description": "",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
                 "Twitter": "https://twitter.com/adamdriscoll"
@@ -877,7 +877,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
+              "Description": "",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
               "Twitter": "https://twitter.com/adamdriscoll"
@@ -1148,6 +1148,8 @@
               }
             }
           ]
+        }
+      ]
     },
     {
       "Day": "21 September 2019",
@@ -1186,14 +1188,15 @@
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "Mastering VSCode - The modern tool for next-gen engineer",
-          "Speakers": [
-            {
-              "Name": "Jaap Brasser",
-              "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
-              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/jaap_brasser"
+                "Title": "Create Beautiful HTML Reports with PowerShell",
+                "Speakers": [
+                  {
+                    "Name": "Jeffrey Hicks",
+                    "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+                    "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+                    "Social": {
+                      "Twitter": "http://www.twitter.com/JeffHicks"
+      
               }
             }
           ]
