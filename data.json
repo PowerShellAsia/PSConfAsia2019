@@ -415,21 +415,6 @@
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "Cloud2",
-          "Time": "11:15 AM - 12:00 PM",
           "Title": "Polaris + PSHTML - PSFabric | PowerShell Community Projects",
           "Speakers": [
             {
@@ -438,6 +423,21 @@
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/ChendrayanV"
+              }
+            }
+          ]
+        },
+        {
+          "SessionId": "Cloud2",
+          "Time": "11:15 AM - 12:00 PM",
+          "Title": "Govern your Azure Enviornment through Azure Policy using Powershell",
+          "Speakers": [
+            {
+              "Name": "Sowmyashree Megalamane",
+              "Description": "Sowmyashree working as Azure Engineer in Omnio Global, London. She has overall 9 years of experience and worked in various domains and technologies. She is Corporate Azure Trainer and Speaker.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Sowmyashree.jpeg?raw=true",
+              "Social": {
+                "Twitter": ""
               }
             }
           ]
