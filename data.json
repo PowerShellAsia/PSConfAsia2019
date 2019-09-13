@@ -524,8 +524,14 @@
               "Social": {
                 "Twitter": "http://www.twitter.com/girishtweek"
               }
+            },
+            {
+              "Name": "Chendrayan Venkatesan",
+              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/ChendrayanV"
             }
-          ]
         }
       ]
     },
