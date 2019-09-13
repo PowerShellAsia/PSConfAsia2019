@@ -838,31 +838,29 @@
         {
           "SessionId": "Cloud1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "",
+          "Title": "Create Beautiful HTML Reports with PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Jeffrey Hicks",
+              "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
               "Social": {
-                "Twitter": ""
-              }
+              "Twitter": "http://www.twitter.com/JeffHicks"
+        }
             }
           ]
         },
         {
           "SessionId": "Cloud2",
           "Time": "11:15 AM - 12:00 PM",
-          "Title": "Mastering VSCode - The modern tool for next-gen engineer",
+          "Title": "Creating Interactive Maps with Universal Dashboard",
           "Speakers": [
             {
-              "Name": "Jaap Brasser",
-              "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
-              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
+              "Name": "Adam Driscoll",
+              "Description": "",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
-                "Blog": "jaapbrasser.com",
-                "Twitter": "http://www.twitter.com/jaap_brasser",
-                "Github": "github.com/jaapbrasser"
+              "Twitter": "https://twitter.com/adamdriscoll"
               }
             }
           ]
@@ -873,19 +871,9 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "Cloud3",
+          "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "PowerShell based APIs - on kubernetes!",
-          "Speakers": [
-            {
-              "Name": "David O'Brien",
-              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/david_obrien"
-              }
-            }
-          ]
+          "Title": "COMMUNITY LIGHTNING DEMOS"
         },
         {
           "SessionId": "Cloud4",
@@ -903,7 +891,7 @@
           ]
         },
         {
-          "SessionId": "Common4",
+          "SessionId": "Common5",
           "Time": "2:45 PM - 3:00 PM",
           "Title": "Break"
         },
@@ -1012,19 +1000,9 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "DevOps3",
+          "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "Is your DSC environment secure? Probably not",
-          "Speakers": [
-            {
-              "Name": "Ryan Bartram",
-              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/rd_bartram"
-              }
-            }
-          ]
+          "Title": "COMMUNITY LIGHTNING DEMOS"
         },
         {
           "SessionId": "DevOps4",
@@ -1153,19 +1131,9 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "PowerShell3",
+          "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "Title": "COMMUNITY LIGHTNING DEMOS"
         },
         {
           "SessionId": "PowerShell4",
