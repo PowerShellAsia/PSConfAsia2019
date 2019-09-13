@@ -450,14 +450,14 @@
         {
           "SessionId": "Cloud3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "Extending PowerShell Types and Formats",
+          "Title": "Building a Serverless Application in PowerShell",
           "Speakers": [
             {
-              "Name": "Jeffrey Hicks",
-              "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+              "Name": "Aditya Patwardhan",
+              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/JeffHicks"
+                "Twitter": ""
               }
             }
           ]
@@ -485,14 +485,14 @@
         {
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "Building Dynamic Interfaces with Universal Dashboard",
+          "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
           "Speakers": [
             {
-              "Name": "Adam Driscoll",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "David O'Brien",
+              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
               "Social": {
-                "Twitter": "https://twitter.com/adamdriscoll"
+                "Twitter": "http://www.twitter.com/david_obrien"
               }
             }
           ]
@@ -500,14 +500,14 @@
         {
           "SessionId": "Cloud6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
+          "Title": "PowerShell Anywhere - Azure Cloud Shell",
           "Speakers": [
             {
-              "Name": "Rob Sewell",
-              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
+              "Name": "Adam Murray",
+              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/sqldbawithbeard"
+                "Twitter": "http://www.twitter.com/muzzar78"
               }
             }
           ]
@@ -515,14 +515,14 @@
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "",
+          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Girish",
+              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps, Continuous Delivery and ALM in microsoft stack.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/girish.jpeg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/girishtweek"
               }
             }
           ]
