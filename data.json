@@ -873,7 +873,17 @@
         {
           "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "COMMUNITY LIGHTNING DEMOS"
+          "Title": "COMMUNITY LIGHTNING DEMOS",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Cloud4",
@@ -1002,7 +1012,17 @@
         {
           "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "COMMUNITY LIGHTNING DEMOS"
+          "Title": "COMMUNITY LIGHTNING DEMOS",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "DevOps4",
@@ -1133,7 +1153,17 @@
         {
           "SessionId": "Common4",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "COMMUNITY LIGHTNING DEMOS"
+          "Title": "COMMUNITY LIGHTNING DEMOS",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "PowerShell4",
