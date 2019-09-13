@@ -704,21 +704,6 @@
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-          "Title": "Visualize and Document Infrastructure with PowerShell",
-          "Speakers": [
-            {
-              "Name": "Prateek Singh",
-              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/SinghPrateik"
-                }
-            }
-          ]
-        },
-        {
-          "SessionId": "PowerShell2",
-          "Time": "11:15 AM - 12:00 PM",
           "Title": "Become the Remoting Master",
           "Speakers": [
             {
@@ -727,26 +712,41 @@
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Jason1.png?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/JasonYoder_MCT"
-              }
+                }
+            }
+          ]
+        },
+        {
+          "SessionId": "PowerShell2",
+          "Time": "11:15 AM - 12:00 PM",
+          "Title": "Extending PowerShell Types and Formats",
+          "Speakers": [
+            {
+              "Name": "Jeffrey Hicks",
+              "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/JeffHicks"
+        }
             }
           ]
         },
         {
           "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Break"
+          "Title": "Lunch"
         },
         {
           "SessionId": "PowerShell3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "",
+          "Title": "Building Dynamic Interfaces with Universal Dashboard",
           "Speakers": [
             {
-              "Name": "",
+              "Name": "Adam Driscoll",
               "Description": "",
               "ImageUrl": "",
               "Social": {
-                "Twitter": ""
+                "Twitter": "https://twitter.com/adamdriscoll"
               }
             }
           ]
@@ -754,14 +754,14 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "Building a Serverless Application in PowerShell",
+          "Title": "Pester internals and concepts",
           "Speakers": [
             {
-              "Name": "Aditya Patwardhan",
-              "Description": "Aditya has been working in the management space for over a decade. He has worked on Background Intelligent Transfer Service (BITS), Windows Management Instrumentation and now on PowerShell. He is a maintainer of PowerShell repository on GitHub and his recent work has been with build and infrastructure improvements. He also owns the PowerShell help system and also a maintainer on PlatyPS repository.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/Aditya.jpg?raw=true",
+              "Name": "Jakub Jares",
+              "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/nohwnd"
               }
             }
           ]
@@ -769,49 +769,11 @@
         {
           "SessionId": "Common3",
           "Time": "2:45 PM - 3:00 PM",
-          "Title": "Day Close-up"
+          "Title": "Break"
         },
         {
           "SessionId": "PowerShell5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "vSphere Security Compliance in a DevOps World",
-          "Speakers": [
-            {
-              "Name": "Luc Dekens",
-              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/LucD22"
-              }
-            },
-            {
-              "Name": " Kyle Ruddy",
-              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/kmruddy"
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "PowerShell6",
-          "Time": "4:00 PM - 4:45 PM",
-          "Title": "Keep on Running: Runspaces in the Wild",
-          "Speakers": [
-            {
-              "Name": "Friedrich Weinmann",
-              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/FredWeinmann"
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "PowerShell7",
-          "Time": "5:00 PM - 5:45 PM",
           "Title": "'Now you have two problems!' - RegEx for PowerShellies",
           "Speakers": [
             {
@@ -820,6 +782,36 @@
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/iisresetme"
+              }
+            }
+          ]
+        },
+        {
+          "SessionId": "PowerShell6",
+          "Time": "4:00 PM - 4:45 PM",
+          "Title": "PowerShell Module Internals: From Manifest to Memory",
+          "Speakers": [
+            {
+              "Name": "Robert Holt",
+              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
+        },
+        {
+          "SessionId": "PowerShell7",
+          "Time": "5:00 PM - 5:45 PM",
+          "Title": "Keep on Running: Runspaces in the Wild",
+          "Speakers": [
+            {
+              "Name": "Friedrich Weinmann",
+              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/FredWeinmann"
               }
             }
           ]
