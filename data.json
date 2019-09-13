@@ -574,14 +574,14 @@
         {
           "SessionId": "DevOps2",
           "Time": "11:15 AM - 12:00 PM",
-          "Title": "",
+          "Title": "Visualize and Document Infrastructure with PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Prateek Singh",
+              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/SinghPrateik"
               }
             }
           ]
@@ -594,14 +594,22 @@
         {
           "SessionId": "DevOps3",
           "Time": "1:00 PM - 1:45 PM",
-          "Title": "WebAPI's with PowerShell in Docker. Who saysI'm not real dev?",
+          "Title": "vSphere Security Compliance in a DevOps World",
           "Speakers": [
             {
-              "Name": "Ryan Bartram",
-              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
+              "Name": "Luc Dekens",
+              "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/LucDekens.jpg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/rd_bartram"
+                "Twitter": "http://www.twitter.com/LucD22"
+              }
+            },
+            {
+              "Name": " Kyle Ruddy",
+              "Description": "Kyle Ruddy is a Senior Technical Marketing Engineer working for VMware R&D in the Cloud Platform Business Unit. Kyle currently focuses on vSphere automation and the associated automation frameworks including all things API, CLI, and SDK. Kyle can be found blogging on VMware blogs, http://blogs.vmware.com/vSphere and http://blogs.vmware.com/PowerCLI, and his personal blog, http://www.thatcouldbeaproblem.com",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/KyleRuddy.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/kmruddy"
               }
             }
           ]
@@ -629,14 +637,14 @@
         {
           "SessionId": "DevOps5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "Pester internals and concepts",
+          "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
           "Speakers": [
             {
-              "Name": "Jakub Jares",
-              "Description": "Jakub is one of the owners of the Pester project, and he've been doing testing in PowerShell since before it was cool. He has several years of administrative experience mostly in banking environment, where He discovered Pester and started using it to test my own projects. Two years ago, he moved to development, and so he can hopefully offer insight from the admin as well as developer point of view. he is also a Microsoft MVP for the past 4 years",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JakubJares.jpeg?raw=true",
+              "Name": "Rob Sewell",
+              "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/RobSewell.png?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/nohwnd"
+                "Twitter": "http://www.twitter.com/sqldbawithbeard"
               }
             }
           ]
@@ -644,14 +652,14 @@
         {
           "SessionId": "DevOps6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "PowerShell Anywhere - Azure Cloud Shell",
+          "Title": "WebAPI's with PowerShell in Docker. Who says I'm not real dev?",
           "Speakers": [
             {
-              "Name": "Adam Murray",
-              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+              "Name": "Ryan Bartram",
+              "Description": "Trained by the great ninja cat. I hope I can pass on some of his wisdom to you Ryan works as a Automation engineer at itnetX AG, a consulting and engineering company located in Switzerland. Ryan helps companies to transform their business by automating thier business processes and streamlining thier IT. Ryan is focused on Microsoft Technologies, especially Microsoft Cloud Platform based Microsoft System Center, Microsoft Virtualization and Microsoft Azure. If you want to know more about Ryan, check out his blog: www.dftai.ch and remember, don't forget to automate it",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/muzzar78"
+                "Twitter": "http://www.twitter.com/rd_bartram"
               }
             }
           ]
@@ -659,14 +667,15 @@
         {
           "SessionId": "DevOps7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
+          "Title": "Power of the Console - Cognitive abilities to colorful Graphs and Grids",
           "Speakers": [
             {
-              "Name": "David O'Brien",
-              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
+              "Name": "Prateek Singh",
+              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/david_obrien"
+                "Blog": "",
+                "Twitter": "http://www.twitter.com/SinghPrateik"
               }
             }
           ]
