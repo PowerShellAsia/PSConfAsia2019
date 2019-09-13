@@ -908,14 +908,14 @@
         {
           "SessionId": "Cloud5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "Creating Interactive Maps with Universal Dashboard",
+          "Title": "PowerShell based APIs - on Kubernetes!",
           "Speakers": [
             {
-              "Name": "Adam Driscoll",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "David O'Brien",
+              "Description": "David recently started his own company focusing mainly on Microsoft stacks in the cloud, training individuals and companies in all things Microsoft Azure and Azure DevOps, and also still doing hands-on consulting and infracoding. He has held a Microsoft MVP award for 5 years including the prestigious MVP for Azure. A co-organiser of the Melbourne Microsoft Cloud and Datacentre meetup he also regularly speaks at international conferences and combines his interest to travel the world with his passion to share IT stories with the community. David's personal blog can be found on [https://david-obrien.net](https://david-obrien.net) . In addition to blogging he has also published online training courses on Pluralsight and 'A Cloud Guru'.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/david.jpeg?raw=true",
               "Social": {
-                "Twitter": "https://twitter.com/adamdriscoll"
+                "Twitter": "http://www.twitter.com/david_obrien"
               }
             }
           ]
@@ -923,14 +923,14 @@
         {
           "SessionId": "Cloud6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "Cross-platform Scripting with VS Code and PSSA",
+          "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
           "Speakers": [
             {
-              "Name": "Robert Holt",
-              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
+              "Name": "Adam Murray",
+              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/muzzar78"
               }
             }
           ]
@@ -1168,14 +1168,14 @@
         {
           "SessionId": "PowerShell4",
           "Time": "2:00 PM - 2:45 PM",
-          "Title": "PowerShell Module Internals: From Manifest to Memory",
+          "Title": "Deep Web: A Web Cmdlets Deep Dive",
           "Speakers": [
             {
-              "Name": "Robert Holt",
-              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
+              "Name": "Mark Kraus",
+              "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/markekraus"
               }
             }
           ]
@@ -1188,14 +1188,14 @@
         {
           "SessionId": "PowerShell5",
           "Time": "3:00 PM - 3:45 PM",
-          "Title": "Deep Web: A Web Cmdlets Deep Dive",
+          "Title": "PSCache - simple strategies for magnificent performance ",
           "Speakers": [
             {
-              "Name": "Mark Kraus",
-              "Description": "Mark Kraus is a Senior Systems Engineer at LinkedIn specializing in hybrid cloud Infrastructure as Code. He is a Former Microsoft MVP, PowerShell Core Project Collaborator, a heavy contributor to the Web Cmdlets code for PowerShell core, and a [opensource author & contributor](https://github.com/markekraus) to many PowerShell projects. He is the author of [Get-PowerShellBlog](https://get-powershellblog.blogspot.com/), a regular in [/r/PowerShell](https://www.reddit.com/r/PowerShell/), and can often be found on the [PoshCode Slack](http://poshcode.org/).",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/markkraus.jpg?raw=true",
+              "Name": "Mathias R. Jessen",
+              "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/markekraus"
+                "Twitter": "http://www.twitter.com/iisresetme"
               }
             }
           ]
