@@ -445,7 +445,17 @@
         {
           "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Cloud3",
@@ -589,7 +599,17 @@
         {
           "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "DevOps3",
@@ -734,7 +754,17 @@
         {
           "SessionId": "Common2",
           "Time": "12:00 PM - 01:00 PM",
-          "Title": "Lunch"
+          "Title": "Lunch",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "PowerShell3",
