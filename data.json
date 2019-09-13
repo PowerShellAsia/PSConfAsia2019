@@ -744,7 +744,7 @@
             {
               "Name": "Adam Driscoll",
               "Description": "",
-              "ImageUrl": "",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
                 "Twitter": "https://twitter.com/adamdriscoll"
               }
@@ -827,18 +827,13 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!"
         },
         {
           "SessionId": "Cloud1",
@@ -873,7 +868,7 @@
           ]
         },
         {
-          "SessionId": "Common2",
+          "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
@@ -908,7 +903,7 @@
           ]
         },
         {
-          "SessionId": "Common3",
+          "SessionId": "Common4",
           "Time": "2:45 PM - 3:00 PM",
           "Title": "Break"
         },
@@ -965,18 +960,13 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!"
         },
         {
           "SessionId": "DevOps1",
@@ -1017,7 +1007,7 @@
           ]
         },
         {
-          "SessionId": "Common2",
+          "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
@@ -1052,7 +1042,7 @@
           ]
         },
         {
-          "SessionId": "Common3",
+          "SessionId": "Common4",
           "Time": "2:45 PM - 3:00 PM",
           "Title": "Break"
         },
@@ -1118,18 +1108,13 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "KeyNote",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!"
         },
         {
           "SessionId": "PowerShell1",
@@ -1163,7 +1148,7 @@
           ]
         },
         {
-          "SessionId": "Common2",
+          "SessionId": "Common3",
           "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch"
         },
@@ -1198,7 +1183,7 @@
           ]
         },
         {
-          "SessionId": "Common3",
+          "SessionId": "Common4",
           "Time": "2:45 PM - 3:00 PM",
           "Title": "Break"
         },
