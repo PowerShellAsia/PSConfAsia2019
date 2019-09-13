@@ -743,7 +743,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "",
+              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
                 "Twitter": "https://twitter.com/adamdriscoll"
@@ -877,7 +877,7 @@
           "Speakers": [
             {
               "Name": "Adam Driscoll",
-              "Description": "",
+              "Description": "Adam Driscoll is a software architect, business owner and a Cloud and Datacenter MVP based out of Hailey, ID, USA. He is a published author, open-source contributor and speaker.",
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adam.jpeg?raw=true",
               "Social": {
               "Twitter": "https://twitter.com/adamdriscoll"
@@ -968,14 +968,14 @@
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "PSCache - simple strategies for magnificent performance ",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Mathias R. Jessen",
-              "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/mathias.jpeg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/iisresetme"
+                "Twitter": ""
               }
             }
           ]
@@ -1188,15 +1188,14 @@
         {
           "SessionId": "PowerShell1",
           "Time": "10:15 AM - 11:00 AM",
-                "Title": "Create Beautiful HTML Reports with PowerShell",
+                "Title": "Mastering VSCode - The modern tool for next-gen engineer",
                 "Speakers": [
                   {
-                    "Name": "Jeffrey Hicks",
-                    "Description": "Jeffery Hicks is an IT veteran with almost 30 years of experience, much of it spent as an IT infrastructure consultant specializing in Microsoft server technologies with an emphasis in automation and efficiency. He is a multi-year recipient of the Microsoft MVP Award. He works today as an independent author, teacher and consultant. Jeff has taught and presented on PowerShell and the benefits of automation to IT Pros worldwide. He has authored and co-authored a number of books, writes for numerous online sites and print publications, is a contributing editor at Petri.com, a Pluralsight author, and a frequent speaker at technology conferences and user groups.",
-                    "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/JeffHicks.png?raw=true",
+                    "Name": "Jaap Brasser",
+                    "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+                    "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
                     "Social": {
-                      "Twitter": "http://www.twitter.com/JeffHicks"
-      
+                      "Twitter": "http://www.twitter.com/jaap_brasser",
               }
             }
           ]
@@ -1204,14 +1203,14 @@
         {
           "SessionId": "PowerShell2",
           "Time": "11:15 AM - 12:00 PM",
-          "Title": "PowerShell + AutoRest + Swagger = Instant Modules",
+          "Title": "Cross-platform Scripting with VS Code and PSSA",
           "Speakers": [
             {
-              "Name": "Adam Murray",
-              "Description": "I am a doer, an optimist, and a technologist. With 20 years of experience in corporate IT and one start-up behind me, I've recently embarked on my second start-up, Tikabu, which provides premium consulting services in secure DevOps. Focusing on clients with a predominantly Microsoft technology stack, we help our customers become more agile at delivering solutions to their customers. I've been passionate about PowerShell since its beta days. I recognised the potential and flexibility it gave me compared with the tools I started out with in automation, such as Kix and VBScript. Today, I remain a staunch PowerShell devotee; I’ve presented on the scripting language at user groups and am a two-time winner of the Quest PowerPack Challenge. PowerShell has become an integral part of the solutions that I develop day to day. Throughout my career, I’ve served in both technical and people-management positions across the financial sector. My electrical-engineering degree has provided a strong foundation for the analytical and troubleshooting talents necessary for a successful IT career, and my MBA and additional continuing education have given me a broader and more well-informed business outlook. My ongoing thirst for technical knowledge has led to a thorough understanding of technology at all levels. More than just a vocation, technology is my passion both in and out of the workplace.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
+              "Name": "Robert Holt",
+              "Description": "Rob joined the PowerShell team full time in 2018 and primarily works on the PowerShell module system, PowerShell language engine, and the PowerShell Extension for VSCode, while also dabbling in PSScriptAnalyzer. His recent work has included enabling support of Windows PowerShell modules in PowerShell 6 and creating the compatibility checking rules in PSScriptAnalyzer. Rob is also a  functional programming enthusiast and is particularly interested in programming languages and compilers.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/robholt.jpg?raw=true",
               "Social": {
-                "Twitter": "http://www.twitter.com/muzzar78"
+                "Twitter": ""
               }
             }
           ]
