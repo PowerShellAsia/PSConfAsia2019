@@ -399,21 +399,6 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:45 AM - 09:00 AM",
-          "Title": "Opening Ceremony",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "Common2",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "The State of PowerShell",
           "Speakers": [
@@ -428,23 +413,8 @@
           ]
         },
         {
-          "SessionId": "Common3",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Azure Dev India Updates",
-          "Speakers": [
-            {
-              "Name": "Trishala Jain",
-              "Description": "Trishala is the Sr. Developer Product Manager at Microsoft.",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
           "SessionId": "Cloud1",
-          "Time": "10:45 AM - 11:30 AM",
+          "Time": "10:15 AM - 11:00 AM",
           "Title": "Polaris + PSHTML - PSFabric | PowerShell Community Projects",
           "Speakers": [
             {
@@ -459,7 +429,7 @@
         },
         {
           "SessionId": "Cloud2",
-          "Time": "11:45 AM - 12:30 PM",
+          "Time": "11:15 AM - 12:00 PM",
           "Title": "Govern your Azure Enviornment through Azure Policy using Powershell",
           "Speakers": [
             {
@@ -473,8 +443,8 @@
           ]
         },
         {
-          "SessionId": "Common4",
-          "Time": "12:30 PM - 01:30 PM",
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch",
           "Speakers": [
             {
@@ -489,7 +459,7 @@
         },
         {
           "SessionId": "Cloud3",
-          "Time": "1:45 PM - 2:30 PM",
+          "Time": "1:00 PM - 1:45 PM",
           "Title": "Building a Serverless Application in PowerShell",
           "Speakers": [
             {
@@ -504,7 +474,7 @@
         },
         {
           "SessionId": "Cloud4",
-          "Time": "2:45 PM - 3:30 PM",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "Real world REST API building with PowerShell in Azure Functions: Terraform Registry!",
           "Speakers": [
             {
@@ -518,23 +488,13 @@
           ]
         },
         {
-          "SessionId": "Common5",
-          "Time": "3:30 PM - 3:45 PM",
-          "Title": "Break",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "SessionId": "Common3",
+          "Time": "2:45 PM - 3:00 PM",
+          "Title": "Break"
         },
         {
           "SessionId": "Cloud5",
-          "Time": "3:45 PM - 4:30 PM",
+          "Time": "3:00 PM - 3:45 PM",
           "Title": "Say no to RDP! Can we? PowerShell to the rescue!",
           "Speakers": [
             {
@@ -549,7 +509,7 @@
         },
         {
           "SessionId": "Cloud6",
-          "Time": "4:45 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "PowerShell Anywhere - Azure Cloud Shell",
           "Speakers": [
             {
@@ -558,6 +518,29 @@
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/adammurray.jpeg?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/muzzar78"
+              }
+            }
+          ]
+        },
+        {
+          "SessionId": "Cloud7",
+          "Time": "5:00 PM - 5:45 PM",
+          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
+          "Speakers": [
+            {
+              "Name": "Girish",
+              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps, Continuous Delivery and ALM in microsoft stack.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/girish.jpeg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/girishtweek"
+              }
+            },
+            {
+              "Name": "Chendrayan Venkatesan",
+              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
+              "Social": {
+                "Twitter": "http://www.twitter.com/ChendrayanV"
               }
             }
           ]
@@ -570,21 +553,6 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:45 AM - 09:00 AM",
-          "Title": "Opening Ceremony",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "Common2",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "The State of PowerShell",
           "Speakers": [
@@ -599,23 +567,8 @@
           ]
         },
         {
-          "SessionId": "Common3",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Azure Dev India Updates",
-          "Speakers": [
-            {
-              "Name": "Trishala Jain",
-              "Description": "Trishala is the Sr. Developer Product Manager at Microsoft.",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
           "SessionId": "DevOps1",
-          "Time": "10:45 AM - 11:30 AM",
+          "Time": "10:15 AM - 11:00 AM",
           "Title": "Better Ops Together: Practical PowerShell Pair Programming Patterns and Practices with VS Code",
           "Speakers": [
             {
@@ -630,7 +583,7 @@
         },
         {
           "SessionId": "DevOps2",
-          "Time": "11:45 AM - 12:30 PM",
+          "Time": "11:15 AM - 12:00 PM",
           "Title": "Visualize and Document Infrastructure with PowerShell",
           "Speakers": [
             {
@@ -644,8 +597,8 @@
           ]
         },
         {
-          "SessionId": "Common4",
-          "Time": "12:30 PM - 01:30 PM",
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch",
           "Speakers": [
             {
@@ -660,7 +613,7 @@
         },
         {
           "SessionId": "DevOps3",
-          "Time": "1:45 PM - 2:30 PM",
+          "Time": "1:00 PM - 1:45 PM",
           "Title": "vSphere Security Compliance in a DevOps World",
           "Speakers": [
             {
@@ -683,7 +636,7 @@
         },
         {
           "SessionId": "DevOps4",
-          "Time": "2:45 PM - 3:30 PM",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "Making your work visible - Including telemetry in your PowerShell modules",
           "Speakers": [
             {
@@ -697,23 +650,13 @@
           ]
         },
         {
-          "SessionId": "Common5",
-          "Time": "3:30 PM - 3:45 PM",
-          "Title": "Break",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "SessionId": "Common3",
+          "Time": "2:45 PM - 3:00 PM",
+          "Title": "Day Close-up"
         },
         {
           "SessionId": "DevOps5",
-          "Time": "3:45 PM - 4:30 PM",
+          "Time": "3:00 PM - 3:45 PM",
           "Title": "dbachecks - The PowerShell Module to validate your SQL Estate",
           "Speakers": [
             {
@@ -728,7 +671,7 @@
         },
         {
           "SessionId": "DevOps6",
-          "Time": "4:45 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "WebAPI's with PowerShell in Docker. Who says I'm not real dev?",
           "Speakers": [
             {
@@ -737,6 +680,22 @@
               "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/ryan.jpeg?raw=true",
               "Social": {
                 "Twitter": "http://www.twitter.com/rd_bartram"
+              }
+            }
+          ]
+        },
+        {
+          "SessionId": "DevOps7",
+          "Time": "5:00 PM - 5:45 PM",
+          "Title": "Power of the Console - Cognitive abilities to colorful Graphs and Grids",
+          "Speakers": [
+            {
+              "Name": "Prateek Singh",
+              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
+              "Social": {
+                "Blog": "",
+                "Twitter": "http://www.twitter.com/SinghPrateik"
               }
             }
           ]
@@ -749,21 +708,6 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "8:45 AM - 09:00 AM",
-          "Title": "Opening Ceremony",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
-          "SessionId": "Common2",
           "Time": "9:00 AM - 10:00 AM",
           "Title": "The State of PowerShell",
           "Speakers": [
@@ -778,23 +722,8 @@
           ]
         },
         {
-          "SessionId": "Common3",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Azure Dev India Updates",
-          "Speakers": [
-            {
-              "Name": "Trishala Jain",
-              "Description": "Trishala is the Sr. Developer Product Manager at Microsoft.",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
-        },
-        {
           "SessionId": "PowerShell1",
-          "Time": "10:45 AM - 11:30 AM",
+          "Time": "10:15 AM - 11:00 AM",
           "Title": "Become the Remoting Master",
           "Speakers": [
             {
@@ -809,7 +738,7 @@
         },
         {
           "SessionId": "PowerShell2",
-          "Time": "11:45 AM - 12:30 PM",
+          "Time": "11:15 AM - 12:00 PM",
           "Title": "Extending PowerShell Types and Formats",
           "Speakers": [
             {
@@ -823,8 +752,8 @@
           ]
         },
         {
-          "SessionId": "Common4",
-          "Time": "12:30 PM - 01:30 PM",
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
           "Title": "Lunch",
           "Speakers": [
             {
@@ -839,7 +768,7 @@
         },
         {
           "SessionId": "PowerShell3",
-          "Time": "1:45 PM - 2:30 PM",
+          "Time": "1:00 PM - 1:45 PM",
           "Title": "Building Dynamic Interfaces with Universal Dashboard",
           "Speakers": [
             {
@@ -854,7 +783,7 @@
         },
         {
           "SessionId": "PowerShell4",
-          "Time": "2:45 PM - 3:30 PM",
+          "Time": "2:00 PM - 2:45 PM",
           "Title": "Pester internals and concepts",
           "Speakers": [
             {
@@ -868,23 +797,13 @@
           ]
         },
         {
-          "SessionId": "Common5",
-          "Time": "3:30 PM - 3:45 PM",
-          "Title": "Break",
-          "Speakers": [
-            {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
-              "Social": {
-                "Twitter": ""
-              }
-            }
-          ]
+          "SessionId": "Common3",
+          "Time": "2:45 PM - 3:00 PM",
+          "Title": "Break"
         },
         {
           "SessionId": "PowerShell5",
-          "Time": "3:45 PM - 4:30 PM",
+          "Time": "3:00 PM - 3:45 PM",
           "Title": "'Now you have two problems!' - RegEx for PowerShellies",
           "Speakers": [
             {
@@ -899,7 +818,7 @@
         },
         {
           "SessionId": "PowerShell6",
-          "Time": "4:45 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "PowerShell Module Internals: From Manifest to Memory",
           "Speakers": [
             {
@@ -913,16 +832,16 @@
           ]
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell7",
+          "Time": "5:00 PM - 5:45 PM",
+          "Title": "Keep on Running: Runspaces in the Wild",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Friedrich Weinmann",
+              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/FredWeinmann"
               }
             }
           ]
@@ -938,8 +857,8 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
           "Speakers": [
             {
               "Name": "",
@@ -953,8 +872,18 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Break"
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "Cloud1",
@@ -1069,22 +998,14 @@
         {
           "SessionId": "Cloud7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "Build PowerShell solutions using Azure DevOps pipelines + Azure Devops Pipelines using powershell",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Girish",
-              "Description": "Girish have more than 10 years of software development experience as a developer, architect and consultant. Girish is expert in DevOps, Continuous Delivery and ALM in microsoft stack.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/girish.jpeg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Twitter": "http://www.twitter.com/girishtweek"
-              }
-            },
-            {
-              "Name": "Chendrayan Venkatesan",
-              "Description": "Chendrayan Venkatesan a.k.a Chen V is an automation enthusiast, speaker, Microsoft Community Contributor, TechNet Wiki Ninja, blogger, author of [Windows PowerShell 5.0 for .NET Developers](https://www.packtpub.com/networking-and-servers/windows-powershell-net-developers-second-edition) and a fun loving person. Chen V use PowerShell at work place to create a positive impact and urge to align with quality of work. One who loves connecting with people to learn and share technical contents. Current Role: Automation Lead Engineer.Location: India, Bangalore.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/chendra.jpg?raw=true",
-              "Social": {
-                "Twitter": "http://www.twitter.com/ChendrayanV"
+                "Twitter": ""
               }
             }
           ]
@@ -1097,8 +1018,8 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
           "Speakers": [
             {
               "Name": "",
@@ -1112,8 +1033,18 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Break"
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "DevOps1",
@@ -1236,15 +1167,14 @@
         {
           "SessionId": "DevOps7",
           "Time": "5:00 PM - 5:45 PM",
-          "Title": "Power of the Console - Cognitive abilities to colorful Graphs and Grids",
+          "Title": "",
           "Speakers": [
             {
-              "Name": "Prateek Singh",
-              "Description": "Prateek Singh is an Infrastructure developer who specializes in Infrastructure Automation with PowerShell. He is author of 'PowerShell Guide to Python', and contributing author to 'The PowerShell Conference' book. Prateek is a frequent open-source community contributor and his blog was recognized among the Top 50 PowerShell blogs in the world in the year 2017 and 2018. Prateek also writes on websites such as 4SysOps.com, IPSwitch.com and TechTarget.com and runs a YouTube Channel dedicated to PowerShell, Cloud, and Automation.",
-              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/pratek.jpeg?raw=true",
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
               "Social": {
-                "Blog": "",
-                "Twitter": "http://www.twitter.com/SinghPrateik"
+                "Twitter": ""
               }
             }
           ]
@@ -1257,8 +1187,8 @@
       "Sessions": [
         {
           "SessionId": "Common1",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "PowerShell Team: Ask Me Anything!",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Azure DevOps: Lightning Overview from Sponsor",
           "Speakers": [
             {
               "Name": "",
@@ -1272,8 +1202,18 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Break"
+          "Time": "9:15 AM - 10:00 AM",
+          "Title": "PowerShell Team: Ask Me Anything!",
+          "Speakers": [
+            {
+              "Name": "",
+              "Description": "",
+              "ImageUrl": "",
+              "Social": {
+                "Twitter": ""
+              }
+            }
+          ]
         },
         {
           "SessionId": "PowerShell1",
@@ -1371,16 +1311,16 @@
           ]
         },
         {
-          "SessionId": "",
-          "Time": "",
-          "Title": "",
+          "SessionId": "PowerShell6",
+          "Time": "4:00 PM - 4:45 PM",
+          "Title": "A babelfish tale: Multilingual module design",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Friedrich Weinmann",
+              "Description": "An IT analyst/administrator, performing a wide variety of tasks, using PowerShell wherever possible. Also, by hobby a developer and scripter, for the fun of it.",
+              "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/FredWeinmann.jpg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Twitter": "http://www.twitter.com/FredWeinmann"
               }
             }
           ]
