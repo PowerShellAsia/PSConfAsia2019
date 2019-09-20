@@ -434,10 +434,10 @@
           "Speakers": [
             {
               "Name": "Trishala Jain",
-              "Description": "Trishala is the Sr. Developer Product Manager at Microsoft.",
+              "Description": "Trishala is a Senior Product Marketing Manager at Microsoft, mainly focusing on India Developer Relations. Prior to joining Microsoft , She has worked as Analytics Marketing Leader for Asia Pacific at IBM and was the owner of IBM Big Data Analytics Meetups across Asia Pacific. She loves to connect with developers and manages large developer community events. She has more than 18 years of Technical Marketing Experience in the IT Industry.",
               "ImageUrl": "",
               "Social": {
-                "Twitter": ""
+                "Twitter": "https://twitter.com/JainTrishala"
               }
             }
           ]
@@ -1373,15 +1373,25 @@
         {
           "SessionId": "PowerShell6",
           "Time": "4:00 PM - 4:45 PM",
-          "Title": "",
+          "Title": "Pew Pew with PowerShell",
           "Speakers": [
             {
-              "Name": "",
-              "Description": "",
-              "ImageUrl": "",
+              "Name": "Jaap Brasser",
+              "Description": "Jaap is a Cloud and Automation Engineer and CDM MVP with a big passion for scripting and automation. As an IT professional Jaap is part of several professional communities, speaks & organizes technical events and writes articles on a variety of subjects on his personal blog and other websites or magazines.",
+              "ImageUrl": "https://github.com/PowerShellAsia/2018Website/blob/master/Pictures/Jaap.jpg?raw=true",
               "Social": {
-                "Twitter": ""
+                "Blog": "jaapbrasser.com",
+                "Twitter": "http://www.twitter.com/jaap_brasser",
+                "Github": "github.com/jaapbrasser"
               }
+            },
+              {
+                "Name": "Ben Gelens",
+                "Description": "Ben is a technician in heart and soul. He likes working with cutting-edge technology and implementing innovative solutions, often before the technology has commoditized. His strength is that he can automate almost anything. Ben transitioned from a traditional infrastructure consultant / engineer to a DevOps and Cloud focused consultant / engineer. Ben is an active IT community participant and speaker and has been awarded the Microsoft MVP (Most Valuable Professional) award for his contributions.",
+                "ImageUrl": "https://github.com/PowerShellAsia/PSConfAsia2019/blob/master/Pictures/BenGelens.png?raw=true",
+                "Social": {
+                  "Twitter": "http://www.twitter.com/bgelens"
+                }
             }
           ]
         },
